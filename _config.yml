@@ -1,6 +1,2 @@
 markdoww: kramdown
 theme: minima
-  social_links:
-    twitter: jekyllrb
-    github: jekyll
-
