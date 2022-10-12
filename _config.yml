@@ -1,4 +1,4 @@
-markdoww: krmadown
+markdoww: kramdown
 theme: minima
   social_links:
     twitter: jekyllrb
