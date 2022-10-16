@@ -1,11 +1,26 @@
-# La vie sociale des idées: enquêtes sur Imagenet
-## Introduction 
+## Introduction
 
-![alt text](http://fungai.org/images/blog/imagenet-logo.png) 
+### 1ere section
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+Essayon d'ajouter quelques lignes de code
 
-##
+
+[timeline](total_timeline.html)
+
+[a relative link](secondfile)
+
+[syllabi](first_figure39.html)
+
+
+[sotu](sotu.csv.gz)
+
+![useful image](image.png)
+
+
+You can use the [editor on GitHub](https://github.com/jphcoi/public_project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -37,3 +52,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 - List
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jphcoi/public_project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+# Header 1
+## Header 2
+### Header 3
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
