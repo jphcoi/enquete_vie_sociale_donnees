@@ -1,23 +1,15 @@
-## Introduction
+# Enquete sur la vie sociale des données
+
+## Introduction 
 
 ### 1ere section
 
 Essayon d'ajouter quelques lignes de code
 
 
-[timeline](total_timeline.html)
 
-[a relative link](secondfile)
+![imagenet logo](https://i0.wp.com/syncedreview.com/wp-content/uploads/2020/06/ts-618.png?w=1774&ssl=1)
 
-[syllabi](first_figure39.html)
-
-
-[sotu](sotu.csv.gz)
-
-![useful image](image.png)
-
-
-You can use the [editor on GitHub](https://github.com/jphcoi/public_project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -48,8 +40,21 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-- Bulleted
-- List
+- Architect
+- Cayman
+- Dinky
+- Hacker
+- Leap day
+- Merlot
+- Midnight
+- Minima
+- Minimal
+- Modernist
+- Slate
+- Tactile
+- Time machine
+
+[https://pages.github.com/themes/](https://pages.github.com/themes/)
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jphcoi/public_project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
@@ -58,3 +63,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ## Header 2
 ### Header 3
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
