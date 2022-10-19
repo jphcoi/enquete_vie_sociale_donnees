@@ -67,7 +67,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 Vous pouvez également inclure des vidéos en utilsant la  syntaxe ci-dessous: 
 <div class="embed-container">
   <iframe
-      src="https://www.youtube.com/embed/{{ include.id }}"
+      src="https://www.youtube.com/embed/0Cca3Mqa2hA"
       width="700"
       height="480"
       frameborder="0"
@@ -77,7 +77,7 @@ Vous pouvez également inclure des vidéos en utilsant la  syntaxe ci-dessous:
 
 Ou tout un tas d'autres ressources provenant de réseaux sociaux ((https://github.com/nathancy/jekyll-embed-video)[https://github.com/nathancy/jekyll-embed-video])
 <blockquote class="twitter-tweet">
-  <a href="https://twitter.com/{{ include.id }}"></a>
+  <a href="https://twitter.com/1582501658101108736"></a>
 </blockquote> 
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
