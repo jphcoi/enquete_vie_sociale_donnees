@@ -1,3 +1,5 @@
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Enquete sur la vie sociale des données
 
 ## Introduction 
@@ -75,9 +77,10 @@ Vous pouvez également inclure des vidéos en utilsant la  syntaxe ci-dessous:
   </iframe>
 </div>
 
-Ou tout un tas d'autres ressources provenant de réseaux sociaux ((https://github.com/nathancy/jekyll-embed-video)[https://github.com/nathancy/jekyll-embed-video])
+Ou tout un tas d'autres ressources provenant de réseaux sociaux ((https://github.com/nathancy/jekyll-embed-video)[https://github.com/nathancy/jekyll-embed-video]) comme des tweets: 
+
+
 <blockquote class="twitter-tweet">
-  <a href="https://twitter.com/1582501658101108736"></a>
+  <a href="https://twitter.com/GaryMarcus/status/1582501658101108736"></a>
 </blockquote> 
 
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
