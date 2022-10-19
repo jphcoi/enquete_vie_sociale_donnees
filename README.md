@@ -64,5 +64,20 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Header 3
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-Vous pouvez également inclure des vidéos en utilsant la même syntaxe que pour insérer des images: 
-![une vidéo sur les transformeurs](https://www.youtube.com/watch?v=6nMeYuFVbHg) 
+Vous pouvez également inclure des vidéos en utilsant la  syntaxe ci-dessous: 
+<div class="embed-container">
+  <iframe
+      src="https://www.youtube.com/embed/{{ include.id }}"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="true">
+  </iframe>
+</div>
+
+Ou tout un tas d'autres ressources provenant de réseaux sociaux ((https://github.com/nathancy/jekyll-embed-video)[https://github.com/nathancy/jekyll-embed-video])
+<blockquote class="twitter-tweet">
+  <a href="https://twitter.com/{{ include.id }}"></a>
+</blockquote> 
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
