@@ -77,7 +77,7 @@ Vous pouvez également inclure des vidéos en utilsant la  syntaxe ci-dessous:
   </iframe>
 </div>
 
-Ou tout un tas d'autres ressources provenant de réseaux sociaux ((https://github.com/nathancy/jekyll-embed-video)[https://github.com/nathancy/jekyll-embed-video]) comme des tweets: 
+Ou tout un tas d'autres ressources provenant de réseaux sociaux ([https://github.com/nathancy/jekyll-embed-video](https://github.com/nathancy/jekyll-embed-video)) comme des tweets: 
 
 
 <blockquote class="twitter-tweet">
