@@ -1,0 +1,748 @@
+id,label,pageranks,twitter_score,audience_sw_apr_june24,Hard News,topic_niv1,clusters_legend,date_fusion,SPEL,CPPAP,ORG,PROPR,media_category,lrecon_23_mean,antielite_salience_23_mean,eu_position_23_mean,refugees_23_mean,galtan_23_mean
+1,Bfmtv.com,0.019787,"48,17535702",237700000,TRUE,Actu,PQR - Sport - Météo,2005,TRUE,TRUE,CMA CGM|||,Rodolphe Saadé||||,Hyper-centre,5.696,5.459,5.48,6.948,5.456
+2,Lemonde.fr,0.023539,"33,94791302",452200000,TRUE,Actu,Divers,1944,TRUE,TRUE,Groupe Le Monde|Le Monde libre||,Xavier Niel|Matthieu Pigasse|||,Centre,4.86,5.745,5.319,7.162,4.646
+3,Leparisien.fr,0.018246,"33,92612425",146200000,TRUE,Actu_Locale,PQR - Sport - Météo,1944,TRUE,TRUE,Groupe Les Échos - Le Parisien|LVMH||,Bernard Arnault||||,Hyper-centre,5.391,5.679,5.274,6.956,5.244
+4,Francetvinfo.fr,0.021746,"21,23225888",169400000,TRUE,Actu,Divers,2016,TRUE,TRUE,France Télévision|Radio France||,République française||||,Hyper-centre,4.968,6.032,4.939,6.886,4.972
+5,Lefigaro.fr,0.016732,"27,84091109",425500000,TRUE,Actu,Droite - Extrême Droite,1826,TRUE,TRUE,Groupe Dassault|||,Famille Dassault||||,Hyper-centre,5.647,6.195,4.558,6.332,5.924
+6,Liberation.fr,0.010819,"21,73751131",75000000,TRUE,Actu,Gauche - Extrême Gauche,1973,TRUE,TRUE,Fonds de Dotation pour une Presse Indépendante|Altice||,Patrick Drahi||||,Centre,4.574,6.131,4.901,7.025,4.573
+7,Fdesouche.com,0.000529,"20,24840727",14620000,TRUE,Actu,Droite - Extrême Droite,2005,FALSE,FALSE,|||,||||,Identitarian,6.141,8.697,1.202,3.65,8.559
+8,Mediapart.fr,0.009131,"18,63899338",24660000,TRUE,Actu,Gauche - Extrême Gauche,2008,TRUE,TRUE,|||,||||,Left Wing,4.102,6.712,4.364,6.933,4.318
+9,Ouest-France.fr,0.01453,"5,607162671",271700000,TRUE,Actu_Locale,PQR - Sport - Météo,1944,TRUE,TRUE,|||,||||,Hyper-centre,5.176,5.611,5.401,7.09,4.946
+10,Lepoint.fr,0.009606,"8,767427761",62140000,TRUE,Actu,Droite - Extrême Droite,1972,TRUE,TRUE,Groupe Sebdo-Le Point|Artémis||,François Pinault||||,Hyper-centre,5.582,6.127,4.669,6.441,5.796
+11,Nouvelobs.com,0.007049,"8,550986452",25280000,TRUE,Actu,Gauche - Extrême Gauche,1964,TRUE,TRUE,Le Monde libre|Berlys Media|NJJ|,Madison Cox|Xavier Niel|||,Centre,4.777,6.088,4.906,6.935,4.793
+12,Marianne.net,0.004548,"8,296187443",30660000,TRUE,Actu,Droite - Extrême Droite,1997,TRUE,TRUE,Czech Media Invest|||,Daniel Křetínský||||,Left Wing,5.283,6.693,3.987,6.114,5.876
+13,Tf1Info.fr,0.00812,"5,206222724",103700000,TRUE,Actu,Divers,1994,TRUE,TRUE,Groupe TF1|Bouygues||,Famille Bouygues|Daniel Křetínský|||,NaN,5.406,6.199,4.62,6.482,5.635
+14,Lesechos.fr,0.013165,"8,073565735",64680000,TRUE,Economie,Economique - Tech - Gaming,1908,TRUE,TRUE,Groupe Les Échos - Le Parisien|LVMH||,Bernard Arnault||||,Centre,5.539,5.384,5.624,7.101,5.196
+15,Huffingtonpost.fr,0.006768,"7,987051439",62820000,TRUE,Actu,Lifestyle – Santé – TV,2005,TRUE,TRUE,Combat Solutions|Groupe Le Monde|Le Monde libre|,Matthieu Pigasse|Xavier Niel|||,Hyper-centre,4.925,6.253,4.675,6.732,5.079
+16,Lejdd.fr,0.008689,"7,196939862",24420000,TRUE,Actu,Lifestyle – Santé – TV,1948,TRUE,TRUE,Lagardère News|Lagardère SA||,Arnaud Lagardère||||,Hyper-centre,5.136,5.648,5.353,7.117,4.926
+17,Francebleu.fr,0.011694,"4,501002524",83270000,TRUE,Actu_Locale,PQR - Sport - Météo,2000,FALSE,FALSE,Radio France|||,République française||||,Hyper-centre,5.157,5.795,5.136,6.979,5.088
+18,Valeursactuelles.com,0.001797,"6,839058514",12810000,TRUE,Actu,Droite - Extrême Droite,1966,TRUE,TRUE,Groupe Valmonde|Privinvest||,Akram Safa||||,Right Wing,6.236,7.858,2.281,4.464,7.953
+19,Cnews.fr,0.004027,"6,406313441",82380000,TRUE,Actu,Extrême Droite - Réinformation,1999,TRUE,TRUE,Groupe Canal+|Vivendi||,Vincent Bolloré||||,PQR & Mag,5.782,7.184,3.263,5.368,6.86
+20,Limportant.fr,0.00028,"6,253397511",169463,TRUE,Actu,Lifestyle – Santé – TV,2013,FALSE,FALSE,|||,||||,Centre,5.418,5.627,5.355,6.911,5.24
+21,Actu.fr,0.006303,"6,034273119",161500000,TRUE,Actu,PQR - Sport - Météo,2017,TRUE,TRUE,|||,||||,PQR & Mag,5.239,5.851,5.049,6.889,5.225
+22,Sudouest.fr,0.007746,"6,027519206",115300000,TRUE,Actu_Locale,PQR - Sport - Météo,1944,TRUE,TRUE,Groupe Sud Ouest France|||,Famille Lemoine||||,PQR & Mag,5.139,5.976,4.936,6.795,5.187
+23,Francesoir.fr,0.001648,"5,61849818",4925000,TRUE,Actu,Extrême Droite - Réinformation,1944,TRUE,TRUE,|||,||||,Centre,5.703,8.292,1.815,4.377,7.572
+24,20Minutes.fr,0.007997,"3,479741714",202000000,TRUE,Actu,Divers,2002,TRUE,TRUE,Groupe Rossel La Voix|Groupe Rossel||,Crédit Agricole|Famille Hurbain|||,Hyper-centre,5.118,6.223,4.652,6.614,5.311
+25,Lequipe.fr,0.010717,"5,527846372",216900000,FALSE,Sport,PQR - Sport - Météo,1946,TRUE,FALSE,|||,||||,Hyper-centre,5.242,5.887,5.051,6.847,5.206
+26,Lexpress.fr,0.006373,"5,469025209",31080000,TRUE,Actu,Droite - Extrême Droite,1953,TRUE,TRUE,|||,||||,Hyper-centre,5.487,5.864,5.025,6.73,5.492
+27,Radiofrance.fr,0.002621,"0,135533092",56030000,TRUE,Actu,Economique - Tech - Gaming,1975,FALSE,FALSE,|||,||||,NaN,4.765,5.644,5.463,7.314,4.459
+28,Planetes360.fr,0.00039,"5,265833884",1341000,TRUE,Actu,Extrême Droite - Réinformation,2016,FALSE,FALSE,|||,||||,Right Wing,5.726,8.439,1.626,4.203,7.728
+31,Ladepeche.fr,0.008234,"4,809539973",153900000,TRUE,Actu_Locale,PQR - Sport - Météo,1870,TRUE,TRUE,Groupe La Dépêche|||,Famille Baylet||||,Hyper-centre,5.182,6.414,4.386,6.423,5.536
+32,Midilibre.fr,0.006685,"4,476923734",109400000,TRUE,Actu_Locale,PQR - Sport - Météo,1944,TRUE,TRUE,Les Journaux du midi|Groupe La Dépêche||,Famille Baylet||||,PQR & Mag,5.2,6.634,4.099,6.207,5.729
+33,Lemediaen442.fr,0.000407,"4,318523826",1787000,TRUE,Actu,Extrême Droite - Réinformation,2020,FALSE,FALSE,|||,||||,NaN,5.692,8.464,1.605,4.211,7.69
+34,Lavoixdunord.fr,0.006467,"4,271892653",39850000,TRUE,Actu_Locale,PQR - Sport - Météo,1941,TRUE,TRUE,La Voix du Nord SA|Groupe Rossel La Voix||,Famille Hurbain|Crédit agricole|||,Hyper-centre,5.077,6.02,4.869,6.846,5.158
+35,Lecourrier-Du-Soir.com,0.000354,"4,255672974",186772,TRUE,Actu,Extrême Droite - Réinformation,2014,FALSE,FALSE,|||,||||,Right Wing,5.556,8.224,1.976,4.572,7.332
+36,Lecourrierdesstrateges.fr,0.000438,"4,168853112",680881,TRUE,Actu,Extrême Droite - Réinformation,2018,FALSE,FALSE,|||,||||,NaN,5.709,8.394,1.674,4.268,7.665
+37,Latribune.fr,0.005526,"4,008585049",15350000,TRUE,Actu,Economique - Tech - Gaming,1985,TRUE,TRUE,CMA CGM|||,Rodolphe Saadé||||,Centre,5.518,5.897,4.974,6.681,5.55
+39,Courrierinternational.com,0.005465,"3,603640573",22890000,TRUE,Actu,Gauche - Extrême Gauche,1990,TRUE,TRUE,Groupe Le Monde|Le Monde libre||,Xavier Niel|Matthieu Pigasse|||,Centre,5.11,6.073,4.861,6.757,5.164
+41,Europe1.fr,0.006791,"2,348614192",28560000,TRUE,Actu,Lifestyle – Santé – TV,1955,TRUE,TRUE,Lagardère News|Lagardère SA||,Arnaud Lagardère||||,Hyper-centre,5.546,6.169,4.621,6.435,5.791
+42,Lopinion.fr,0.003243,"3,522020752",5028000,TRUE,Actu,Droite - Extrême Droite,2013,TRUE,TRUE,Groupe L’Opinion|||,Bernard Arnault|Claude Perdriel|Famille Bettencourt|Ken Fisher|Nicolas Beytout,Centre,6.101,5.541,5.302,6.711,5.962
+43,Parismatch.com,0.004612,"3,493682577",30770000,FALSE,People,Lifestyle – Santé – TV,1949,TRUE,TRUE,LVMH|||,Bernard Arnault||||,PQR & Mag,5.545,6.182,4.624,6.428,5.787
+44,La-Croix.com,0.005527,"3,161373418",20910000,TRUE,Actu,Droite - Extrême Droite,1883,TRUE,TRUE,Bayard|||,Les Augustins de l’Assomption||||,Centre,5.242,5.602,5.392,7.056,5.019
+45,Letelegramme.fr,0.004977,"3,14647022",43280000,TRUE,Actu_Locale,PQR - Sport - Météo,1944,TRUE,TRUE,Groupe Télégramme|||,Édouard Coudurier||||,PQR & Mag,5.125,5.313,5.778,7.343,4.687
+46,Capital.fr,0.005713,"3,103172777",66460000,TRUE,Economie,Economique - Tech - Gaming,1991,TRUE,TRUE,Prisma Media|Vivendi||,Vincent Bolloré||||,,,,,,
+47,France.tv,0.007961,"3,058734047",64440000,FALSE,TV,Lifestyle – Santé – TV,,FALSE,FALSE,|||,||||,NaN,5.017,5.164,5.999,7.585,4.42
+48,Jeanmarcmorandini.com,0.000793,"2,984681672",28010000,TRUE,Actu,Lifestyle – Santé – TV,2004,FALSE,FALSE,|||,||||,PQR & Mag,5.941,7.754,2.484,4.735,7.512
+49,Publicsenat.fr,0.003753,"2,965041841",5289000,TRUE,Actu,Divers,2000,FALSE,FALSE,|||,République française||||,PQR & Mag,5.051,6.2,4.654,6.727,5.228
+50,Bvoltaire.fr,0.000701,"2,901487968",6045000,TRUE,Actu,Droite - Extrême Droite,2012,TRUE,TRUE,|||,||||,Identitarian,6.282,8.265,1.741,4.074,8.355
+51,Rtl.fr,0.009397,"2,822090247",45050000,TRUE,Actu,Lifestyle – Santé – TV,1966,TRUE,TRUE,Groupe M6|CMA CGM|RTL Group|,Rodolphe Saadé|Famille Mohn|||,Hyper-centre,5.403,6.278,4.523,6.419,5.688
+52,Leprogres.fr,0.005115,"2,793624389",45280000,TRUE,Actu_Locale,PQR - Sport - Météo,1859,TRUE,TRUE,Groupe EBRA|||,Crédit Mutuel||||,Hyper-local (East),5.44,5.47,5.539,7.151,5.132
+53,Legorafi.fr,0.000412,"2,679634781",1084000,TRUE,Humour,Extrême Droite - Réinformation,2012,FALSE,FALSE,|||,||||,PQR & Mag,4.745,6.391,4.581,6.768,4.913
+54,Ledauphine.com,0.005279,"2,673291836",54260000,TRUE,Actu_Locale,PQR - Sport - Météo,1945,TRUE,TRUE,Groupe EBRA|||,Crédit Mutuel||||,Hyper-local (East),5.425,5.405,5.63,7.208,5.06
+55,Rfi.fr,0.009289,"1,864341421",34830000,TRUE,Actu,Gauche - Extrême Gauche,1975,TRUE,TRUE,|||,||||,Centre,5.076,5.897,5.091,6.91,5.0
+56,Afp.com,0.003467,"2,566878967",7342000,TRUE,Actu,Extrême Droite - Réinformation,1944,FALSE,FALSE,|||,||||,,,,,,
+57,Reporterre.net,0.003756,"2,477138319",8682000,TRUE,Ecologie,Gauche - Extrême Gauche,1989,TRUE,TRUE,|||,||||,Left Wing,3.919,6.364,4.826,7.274,3.873
+58,Reseauinternational.net,0.000745,"2,193800429",3152000,TRUE,Actu,Extrême Droite - Réinformation,2013,FALSE,FALSE,|||,||||,Revolutionary Right,5.753,8.427,1.639,4.198,7.741
+59,France24.com,0.005646,"1,579698923",47160000,TRUE,Actu,Droite - Extrême Droite,2005,TRUE,TRUE,France Médias Monde|||,République française||||,Centre,5.134,6.082,4.849,6.732,5.203
+60,Challenges.fr,0.005935,"2,167108212",19440000,TRUE,Economie,Economique - Tech - Gaming,1982,TRUE,TRUE,Groupe Perdriel|LVMH||,Bernard Arnault|Claude Perdriel|||,Centre,5.655,5.173,5.862,7.236,5.187
+61,Humanite.fr,0.003016,"2,148482878",8914000,TRUE,Actu,Gauche - Extrême Gauche,1904,TRUE,TRUE,|||,||||,Left Wing,3.84,6.601,4.328,7.163,4.124
+62,Laprovence.com,0.007353,"2,134889381",31720000,TRUE,Actu_Locale,PQR - Sport - Météo,1997,TRUE,TRUE,Groupe La Provence|CMA CGM||,Rodolphe Saadé||||,PQR & Mag,5.348,6.214,4.597,6.495,5.608
+63,Lindependant.fr,0.00239,"2,105410858",112600000,TRUE,Actu_Locale,Lifestyle – Santé – TV,1846,TRUE,TRUE,Les Journaux du midi|Groupe La Dépêche||,Famille Baylet||||,PQR & Mag,5.366,6.789,3.846,5.972,6.058
+65,Slate.fr,0.004976,"2,005534447",19900000,TRUE,Actu,Gauche - Extrême Gauche,1996,TRUE,TRUE,Lampsane Investissement SA|||,Ariane de Rothschild||||,Centre,4.898,5.781,5.285,7.129,4.691
+66,Arte.tv,0.006797,"1,938026198",49450000,FALSE,Culture,Gauche - Extrême Gauche,1992,FALSE,FALSE,Arte Deutschland TV GmbH|Arte France||,Länder de république fédérale d'Allemagne|République française|||,Centre,4.666,5.792,5.343,7.288,4.393
+67,Footmercato.net,0.002297,"1,928774242",115600000,FALSE,Sport,PQR - Sport - Météo,,TRUE,FALSE,|||,||||,NaN,5.286,6.734,4.016,6.139,5.837
+68,Telerama.fr,0.003742,"1,835269625",17030000,FALSE,Culture,Gauche - Extrême Gauche,1947,TRUE,TRUE,Groupe Le Monde|Le Monde libre||,Xavier Niel|Matthieu Pigasse|||,Centre,4.471,5.842,5.292,7.327,4.231
+69,Pgibertie.com,0.000346,"1,767308163",133278,TRUE,Actu,Extrême Droite - Réinformation,2015,FALSE,FALSE,|||,||||,NaN,5.71,8.504,1.514,4.185,7.751
+70,Estrepublicain.fr,0.004791,"1,75818413",19120000,TRUE,Actu_Locale,PQR - Sport - Météo,1889,TRUE,TRUE,Groupe EBRA|||,Crédit Mutuel||||,Hyper-local (East),5.576,5.48,5.461,7.058,5.341
+71,Arretsurimages.net,0.002407,"1,675268619",977628,TRUE,Actu,Gauche - Extrême Gauche,1995,TRUE,TRUE,|||,||||,NaN,3.841,6.659,4.511,7.213,3.93
+72,Actu17.fr,0.003277,"1,647088585",4449000,TRUE,Actu_Locale,PQR - Sport - Météo,2015,FALSE,FALSE,|||,||||,PQR & Mag,5.976,7.531,2.796,4.933,7.397
+73,Atlantico.fr,0.001437,"1,636797241",3935000,TRUE,Actu,Droite - Extrême Droite,2011,TRUE,TRUE,|||,||||,Right Wing,6.023,6.375,4.217,5.972,6.522
+74,Linsoumission.fr,0.00031,"1,562570881",388659,TRUE,Actu,Gauche - Extrême Gauche,2020,FALSE,FALSE,|||,||||,NaN,3.363,7.537,3.644,6.967,3.835
+75,Streetpress.com,0.001127,"1,436404919",1122000,TRUE,Actu,Gauche - Extrême Gauche,2002,TRUE,TRUE,|||,||||,Left Wing,3.959,6.568,4.585,7.199,4.03
+76,Ripostelaique.com,0.000426,"1,426052786",1633000,TRUE,Actu,Droite - Extrême Droite,2007,FALSE,FALSE,|||,||||,Identitarian,6.098,8.685,1.196,3.675,8.482
+77,Numerama.com,0.003822,"1,42508793",18450000,TRUE,Technologie,Economique - Tech - Gaming,2002,TRUE,FALSE,Humanoïd|Groupe EBRA||,Crédit Mutuel||||,Centre,5.222,5.729,5.307,7.027,5.017
+78,Anguillesousroche.com,0.000359,"1,395697971",210983,TRUE,Actu,Extrême Droite - Réinformation,2019,FALSE,FALSE,|||,||||,NaN,5.718,8.473,1.568,4.173,7.763
+79,Policeetrealites.com,0.000282,"1,392260433",561738,TRUE,Sécurité,PQR - Sport - Météo,2018,FALSE,FALSE,|||,||||,NaN,6.195,8.177,1.858,4.124,8.221
+80,Nicematin.com,0.006711,"1,37460122",19350000,TRUE,Actu_Locale,Lifestyle – Santé – TV,1944,TRUE,TRUE,NJJ|Fonds pour l'indépendance de la presse||,Xavier Niel||||,PQR & Mag,5.714,6.348,4.363,6.214,6.108
+81,Causeur.fr,0.000952,"1,363547509",3910000,TRUE,Actu,Droite - Extrême Droite,2007,TRUE,TRUE,|||,||||,Right Wing,6.269,7.446,2.787,4.844,7.668
+82,Lamontagne.fr,0.0027,"1,334637035",25260000,TRUE,Actu_Locale,PQR - Sport - Météo,1919,TRUE,TRUE,Groupe La Montagne|||,Fondation Varenne||||,Hyper-local (East),5.065,5.618,5.31,7.221,4.897
+83,Alternatives-Economiques.fr,0.001031,"0,963897142",1362000,TRUE,Economie,Gauche - Extrême Gauche,1980,TRUE,TRUE,|||,||||,Left Wing,3.79,6.029,5.191,7.605,3.562
+84,K-Gen.fr,0,"1,287183386",2366000,FALSE,Musique,Divers,,FALSE,FALSE,|||,||||,,,,,,
+85,Sciencesetavenir.fr,0.003296,"1,282982809",7434000,TRUE,Sciences,Divers,1947,TRUE,TRUE,Groupe Perdriel|LVMH||,Bernard Arnault|Claude Perdriel|||,,,,,,
+86,Mediavenir.fr,0.00026,"1,270762828",818962,TRUE,Marketing,Extrême Droite - Réinformation,2020,FALSE,FALSE,|||,||||,,,,,,
+87,Epochtimes.fr,0.000426,"1,191383318",617262,TRUE,Actu,Extrême Droite - Réinformation,2005,FALSE,FALSE,|||,||||,Right Wing,5.773,8.23,1.849,4.346,7.643
+88,30Millionsdamis.fr,0.000944,"1,179058059",771300,FALSE,Animaux,Lifestyle – Santé – TV,,FALSE,FALSE,|||,||||,NaN,4.972,6.647,4.217,6.343,5.388
+89,Aa.com.tr /fr,0.000384,"1,163531067",37320000,TRUE,Actu,Extrême Droite - Réinformation,1920,FALSE,FALSE,|||,||||,,,,,,
+90,Cafepedagogique.net,0.001201,"1,159824325",2186000,TRUE,Education,Gauche - Extrême Gauche,2001,FALSE,FALSE,|||,||||,NaN,3.674,6.252,4.951,7.616,3.541
+91,Tv5Monde.com,0.002379,"1,150732106",10460000,TRUE,Actu,Gauche - Extrême Gauche,1984,FALSE,FALSE,France Médias Monde|France Télévision||,République française||||,Centre,5.426,4.94,6.22,7.578,4.712
+92,Gala.fr,0.002096,"1,129406077",87400000,FALSE,People,Lifestyle – Santé – TV,1993,TRUE,FALSE,Groupe Dassault|||,Famille Dassault||||,Leisure and Health,5.519,7.032,3.554,5.714,6.376
+93,Monde-Diplomatique.fr,0.002645,"1,100587684",2690000,TRUE,Actu,Gauche - Extrême Gauche,1954,TRUE,TRUE,Association Günter-Holzmann|Groupe Le Monde|Les Amis du Monde diplomatique|Le Monde libre,Association Günter-Holzmann|Xavier Niel|Matthieu Pigasse||,Left Wing,4.103,6.974,4.04,6.785,4.472
+94,Crowdbunker.com,0.00062,"1,09420186",8367000,TRUE,Actu,Extrême Droite - Réinformation,2020,FALSE,FALSE,|||,||||,NaN,5.586,8.551,1.486,4.215,7.606
+95,Theconversation.com,0.008834,"1,057284378",52480000,TRUE,Sciences,Economique - Tech - Gaming,2011,TRUE,TRUE,|||,||||,Centre,4.832,5.217,5.995,7.646,4.22
+96,Lyonmag.com,0.001005,"1,034913845",7040000,TRUE,Actu_Locale,Divers,1995,TRUE,TRUE,|||,||||,Right Wing,5.455,6.489,4.234,6.174,5.949
+97,Off-Investigation.fr,0.000438,"1,01010338",193002,TRUE,Actu,Gauche - Extrême Gauche,2021,TRUE,TRUE,|||,||||,NaN,4.688,7.677,2.957,5.771,5.751
+98,Lanouvellerepublique.fr,0.003776,"0,714134779",18320000,TRUE,Actu_Locale,Divers,1944,TRUE,TRUE,|||,||||,,,,,,
+99,Varmatin.com,0.003538,"0,982295291",14210000,TRUE,Actu_Locale,PQR - Sport - Météo,1946,TRUE,TRUE,NJJ|Fonds pour l'indépendance de la presse||,Xavier Niel||||,PQR & Mag,5.62,6.433,4.266,6.165,6.093
+100,Disclose.ngo,0.001332,"0,940465898",160334,TRUE,Actu,Gauche - Extrême Gauche,2018,FALSE,FALSE,|||,||||,NaN,4.159,6.896,4.104,6.764,4.531
+101,Qactus.fr,0.000345,"0,937008304",692419,TRUE,Actu,Extrême Droite - Réinformation,2020,FALSE,FALSE,|||,||||,NaN,5.809,8.541,1.464,4.018,7.91
+102,Basta.media,0.001576,"0,931208433",1828000,TRUE,Actu,Gauche - Extrême Gauche,2008,TRUE,TRUE,|||,||||,NaN,3.593,6.656,4.548,7.305,3.658
+103,I24News.tv,0.000804,"0,669688885",18350000,TRUE,Actu,Extrême Droite - Réinformation,2013,FALSE,FALSE,Altice|||,Patrick Drahi||||,NaN,5.695,6.89,3.646,5.627,6.514
+104,Qg.media,0.000303,"0,906241635",130970,TRUE,Actu,PQR - Sport - Météo,2019,TRUE,TRUE,|||,||||,NaN,4.774,7.82,2.717,5.562,5.964
+105,Dna.fr,0.002642,"0,899526795",10790000,TRUE,Actu_Locale,PQR - Sport - Météo,1877,TRUE,TRUE,Groupe EBRA|||,Crédit Mutuel||||,Hyper-local (East),5.441,5.25,5.801,7.317,4.995
+106,Eurosport.fr,0.003809,"0,896035376",83740000,FALSE,Sport,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+107,Limportante.fr,0.00031,"0,891873468",7338,TRUE,Actu,Lifestyle – Santé – TV,2013,FALSE,FALSE,|||,||||,,,,,,
+108,fr.Euronews.com,0.00261,"0,866731167",8980000,TRUE,Actu,Divers,1993,FALSE,FALSE,|||,||||,Centre,5.278,6.164,4.691,6.554,5.459
+109,Sofoot.com,0.002876,"0,864870299",30500000,FALSE,Sport,PQR - Sport - Météo,2003,FALSE,FALSE,|||,||||,PQR & Mag,4.494,6.146,4.866,7.083,4.503
+110,Lecanardenchaine.fr,0.000673,"0,862344788",337511,TRUE,Actu,Lifestyle – Santé – TV,1915,FALSE,FALSE,|||,||||,,,,,,
+111,Futura-Sciences.com,0.004024,"0,861378437",33770000,FALSE,Sciences,Economique - Tech - Gaming,2001,FALSE,FALSE,|||,||||,Hyper-centre,5.301,6.073,4.792,6.625,5.407
+112,fr.Sott.net,0.000348,"0,854542056",290079,TRUE,Actu,Extrême Droite - Réinformation,2002,FALSE,FALSE,|||,||||,Alternative Health,5.582,8.409,1.744,4.409,7.48
+113,Bienpublic.com,0.003193,"0,846278951",9193000,TRUE,Actu_Locale,PQR - Sport - Météo,1996,TRUE,TRUE,Groupe EBRA|||,Crédit Mutuel||||,Hyper-local (East),5.561,5.731,5.177,6.814,5.487
+114,Charliehebdo.fr,0.000915,"0,833322091",646771,TRUE,Humour,Gauche - Extrême Gauche,1970,TRUE,TRUE,|||,||||,PQR & Mag,4.932,5.705,5.317,7.136,4.752
+115,Businessbourse.com,0.000347,"0,809695906",1066000,TRUE,Economie,Extrême Droite - Réinformation,1987,FALSE,FALSE,|||,||||,Revolutionary Right,5.707,8.329,1.759,4.358,7.63
+116,Wynfoot.fr,0.000258,"0,801768949",25913,FALSE,Sport,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+117,Frandroid.com,0.002672,"0,779974588",37890000,FALSE,Technologie,Economique - Tech - Gaming,2007,TRUE,FALSE,Humanoïd|Groupe EBRA||,Crédit Mutuel||||,IT & Consumer,5.539,5.921,4.939,6.64,5.594
+118,Ozap.com,0.002638,"0,752214415",14000000,FALSE,TV,Lifestyle – Santé – TV,2002,TRUE,FALSE,|||,||||,Centre,5.357,6.034,4.9,6.661,5.416
+119,Cogiito.com,0.000406,"0,751633689",5000,TRUE,Actu,Extrême Droite - Réinformation,2020,FALSE,FALSE,|||,||||,,,,,,
+120,Apar.tv,0.000317,"0,750884065",514613,TRUE,Actu,Extrême Droite - Réinformation,2008,FALSE,FALSE,|||,||||,NaN,5.522,8.306,1.885,4.516,7.333
+121,Trashtalk.co,0.000498,"0,722967294",9229000,FALSE,Sport,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+122,Profession-Gendarme.com,0.000451,"0,707584231",692060,TRUE,Actu,Extrême Droite - Réinformation,2013,FALSE,FALSE,|||,||||,NaN,5.739,8.62,1.362,4.007,7.9
+123,Lalettre.fr,0.004299,"0,70255411",,TRUE,Actu,Divers,1978,,,|||,||||,,,,,,
+124,Republicain-Lorrain.fr,0.00232,"0,690995697",10500000,TRUE,Actu_Locale,PQR - Sport - Météo,1919,TRUE,TRUE,Groupe EBRA|||,Crédit Mutuel||||,Hyper-local (East),5.309,5.385,5.68,7.344,4.928
+125,Journaldugeek.com,0.00136,"0,677777054",19510000,FALSE,Technologie,Economique - Tech - Gaming,2004,FALSE,FALSE,|||,||||,IT & Consumer,5.524,5.751,5.156,6.77,5.446
+126,Lesjours.fr,0.001556,"0,666941135",607375,TRUE,Actu,Gauche - Extrême Gauche,2016,TRUE,TRUE,|||,||||,Left Wing,4.187,5.927,5.248,7.471,3.948
+127,Contrepoints.org,0.000914,"0,66668185",766396,TRUE,Actu,Economique - Tech - Gaming,2008,FALSE,FALSE,|||,||||,Right Wing,6.2,6.733,3.703,5.546,6.984
+128,Euractiv.fr,0.002381,"0,663986863",1229000,TRUE,Actu,Droite - Extrême Droite,1999,FALSE,FALSE,|||,||||,NaN,5.366,6.01,4.852,6.649,5.476
+129,Courrier-Picard.fr,0.001029,"0,654539664",5506000,TRUE,Actu_Locale,PQR - Sport - Météo,1944,TRUE,TRUE,La Voix du Nord SA|Groupe Rossel La Voix||,Famille Hurbain|Crédit agricole|||,PQR & Mag,5.248,5.955,4.913,6.801,5.313
+130,Infodujour.fr,0.000313,"0,654335822",124280,TRUE,Actu,Extrême Droite - Réinformation,2015,TRUE,TRUE,|||,||||,,,,,,
+132,Politis.fr,0.001249,"0,638410553",651671,TRUE,Actu,Gauche - Extrême Gauche,1988,TRUE,TRUE,|||,||||,Left Wing,3.52,6.685,4.538,7.359,3.57
+133,Guyboulianne.info,0.000325,"0,504699271",43088,TRUE,Actu,Extrême Droite - Réinformation,2022,FALSE,FALSE,|||,||||,NaN,5.836,8.485,1.532,4.081,7.889
+134,Lelibrepenseur.org,0.000358,"0,601293314",653184,TRUE,Actu,Extrême Droite - Réinformation,2010,FALSE,FALSE,|||,||||,Alternative Health,5.69,8.489,1.552,4.202,7.709
+135,Blast-Info.fr,0.00149,"0,589215833",1886000,TRUE,Actu,Gauche - Extrême Gauche,2021,TRUE,TRUE,|||,||||,NaN,4.025,7.066,3.968,6.754,4.433
+136,Europe-Israel.org,0.000315,"0,588185823",19027,TRUE,Actu,Droite - Extrême Droite,2010,FALSE,FALSE,|||,||||,Identitarian,5.968,8.178,1.893,4.307,7.88
+137,Lequotidiendumedecin.fr,0.000949,"0,587957882",2166000,TRUE,Santé,Extrême Droite - Réinformation,1971,TRUE,FALSE,|||,||||,PQR & Mag,5.528,5.798,5.043,6.763,5.503
+138,Geo.fr,0.007742,"0,586886551",40520000,FALSE,Sciences,Divers,1979,TRUE,TRUE,Prisma Media|Vivendi||,Vincent Bolloré||||,,,,,,
+139,Frontpopulaire.fr,0.000584,"0,582597538",909907,TRUE,Actu,Extrême Droite - Réinformation,2020,TRUE,TRUE,|||,||||,NaN,6.023,7.604,2.641,4.88,7.48
+140,Putsch.media,0.000307,"0,581803831",238161,TRUE,Actu,Extrême Droite - Réinformation,2006,TRUE,TRUE,|||,||||,PQR & Mag,5.651,8.201,1.934,4.465,7.453
+141,Public.fr,0.000745,"0,577998523",20110000,FALSE,People,Lifestyle – Santé – TV,2003,TRUE,FALSE,|||,||||,Leisure and Health,5.542,7.29,3.244,5.445,6.596
+142,Lalsace.fr,0.001744,"0,573744745",7821000,TRUE,Actu_Locale,PQR - Sport - Météo,1944,TRUE,TRUE,Groupe EBRA|||,Crédit Mutuel||||,Hyper-local (East),5.363,5.69,5.296,7.01,5.191
+143,Frustrationmagazine.fr,0.000454,"0,56487291",503442,TRUE,Actu,Gauche - Extrême Gauche,2013,FALSE,FALSE,|||,||||,NaN,3.47,7.31,3.912,7.059,3.789
+144,Breizh-Info.com,0.000623,"0,562032006",1229000,TRUE,Actu,Extrême Droite - Réinformation,2013,FALSE,FALSE,|||,||||,Identitarian,5.937,8.223,1.863,4.256,7.879
+145,Canal-Supporters.com,0.000308,"0,557578207",8096000,FALSE,Sport,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+147,Nextinpact.com,0.001181,"0,556227463",487875,TRUE,Technologie,Economique - Tech - Gaming,2000,TRUE,TRUE,|||,||||,,,,,,
+148,Lesalonbeige.fr,0.000382,"0,555845391",3547000,TRUE,Actu,Droite - Extrême Droite,2004,FALSE,FALSE,|||,||||,Identitarian,6.224,8.332,1.638,3.978,8.342
+149,Paris-Normandie.fr,0.002504,"0,54948551",10220000,TRUE,Actu_Locale,PQR - Sport - Météo,1944,TRUE,TRUE,Groupe Rossel|||,Famille Hurbain||||,PQR & Mag,5.172,5.499,5.41,7.327,4.975
+150,Boursorama.com,0.001411,"0,459454798",65240000,TRUE,Economie,Economique - Tech - Gaming,1998,FALSE,FALSE,|||,||||,Centre,5.402,6.281,4.493,6.428,5.707
+151,Sudradio.fr,0.002529,"0,536972832",2049000,TRUE,Actu,Extrême Droite - Réinformation,1958,FALSE,FALSE,Fiducial|||,Christian Latouche||||,NaN,5.675,6.284,4.419,6.248,6.068
+152,Usinenouvelle.com,0.003408,"0,528223536",6251000,TRUE,Actu,Economique - Tech - Gaming,1891,TRUE,TRUE,|||,||||,IT & Consumer,5.569,5.289,5.725,7.182,5.165
+153,Entreprendre.fr,0.000779,"0,528069952",354118,TRUE,Economie,Droite - Extrême Droite,1984,FALSE,FALSE,|||,||||,NaN,5.831,6.555,4.022,5.907,6.445
+154,Lemediatv.fr,0.00052,"0,521501056",659940,TRUE,Actu,Gauche - Extrême Gauche,2018,TRUE,TRUE,|||,||||,Left Wing,3.457,7.376,3.831,7.035,3.822
+155,Actualitte.com,0.001939,"0,511422605",2160000,FALSE,Culture,Economique - Tech - Gaming,,FALSE,FALSE,|||,||||,NaN,4.998,5.586,5.441,7.218,4.726
+156,Elle.fr,0.002431,"0,506434638",43030000,FALSE,Lifestyle,Lifestyle – Santé – TV,1945,TRUE,TRUE,Czech Media Invest|||,Daniel Křetínský||||,Leisure and Health,5.113,5.862,5.108,6.91,5.049
+157,Bonpote.com,0.000666,"0,504457559",1041000,TRUE,Ecologie,Economique - Tech - Gaming,2018,FALSE,FALSE,|||,||||,NaN,3.982,5.56,5.812,7.767,3.414
+158,Closermag.fr,0.001237,"0,5022665",49780000,FALSE,People,Lifestyle – Santé – TV,2005,TRUE,FALSE,|||,||||,Hyper-centre,5.62,7.107,3.458,5.574,6.556
+159,Allocine.fr,0.007765,"0,502093739",126000000,FALSE,Culture,Lifestyle – Santé – TV,,FALSE,FALSE,|||,||||,NaN,4.938,6.264,4.649,6.655,5.115
+160,Blogrioufol.com,0.000279,"0,498609649",31380,TRUE,Actu,Droite - Extrême Droite,2021,FALSE,FALSE,|||,||||,,,,,,
+161,Legrandcontinent.eu,0.001601,"0,495590139",1641000,TRUE,Actu,Gauche - Extrême Gauche,2019,FALSE,FALSE,|||,||||,NaN,5.067,5.131,6.066,7.572,4.444
+162,Presse-Citron.net,0.001714,"0,494845665",19910000,FALSE,Technologie,Economique - Tech - Gaming,2005,FALSE,FALSE,|||,||||,IT & Consumer,5.577,5.626,5.323,6.882,5.405
+163,Medias-Presse.info,0.000398,"0,482174931",527537,TRUE,Actu,Extrême Droite - Réinformation,2013,FALSE,FALSE,|||,||||,Identitarian,5.909,8.589,1.362,3.929,8.123
+164,Voici.fr,0.001738,"0,474248716",89800000,FALSE,People,Lifestyle – Santé – TV,1987,TRUE,FALSE,Prisma Media|Vivendi||,Vincent Bolloré||||,,,,,,
+165,Programme-Television.org,0.001316,"0,472544352",37690000,FALSE,TV,Lifestyle – Santé – TV,1960,TRUE,FALSE,Czech Media Invest|||,Daniel Křetínský||||,Leisure and Health,5.444,7.041,3.591,5.728,6.27
+166,Lesdeqodeurs.fr,0.000273,"0,465573613",34252,TRUE,Actu,Extrême Droite - Réinformation,2020,FALSE,FALSE,|||,||||,NaN,5.783,8.497,1.524,4.098,7.833
+167,Franc-Tireur.fr,0.000386,"0,464367825",1036000,TRUE,Actu,Droite - Extrême Droite,1941,TRUE,TRUE,Czech Media Invest|||,Daniel Křetínský||||,NaN,5.812,4.357,6.912,7.758,4.768
+169,Clubic.com,0.00159,"0,460835916",22020000,TRUE,Technologie,Economique - Tech - Gaming,2000,FALSE,FALSE,|||,||||,IT & Consumer,5.547,5.772,5.121,6.766,5.483
+170,Corsematin.com,0.002957,"0,45914974",4665000,TRUE,Actu_Locale,PQR - Sport - Météo,1944,TRUE,TRUE,Groupe La Provence|CMA CGM||,Rodolphe Saadé||||,PQR & Mag,5.038,5.904,4.673,6.733,5.306
+171,Lincorrect.org,0.000353,"0,458283293",258877,TRUE,Actu,Droite - Extrême Droite,2017,TRUE,TRUE,|||,||||,NaN,6.399,7.827,2.278,4.485,8.158
+172,Lunion.fr,0.002064,"0,456890216",14500000,TRUE,Actu_Locale,PQR - Sport - Météo,1989,TRUE,TRUE,La Voix du Nord SA|Groupe Rossel La Voix||,Famille Hurbain|Crédit agricole|||,PQR & Mag,5.71,5.441,5.524,7.133,5.426
+173,Resistancerepublicaine.com,0.000338,"0,444437233",995956,TRUE,Actu,Droite - Extrême Droite,2009,FALSE,FALSE,|||,||||,Identitarian,6.111,8.844,0.986,3.517,8.618
+174,Nexus.fr,0.000341,"0,442680087",155969,TRUE,Actu,Extrême Droite - Réinformation,1986,FALSE,FALSE,|||,||||,NaN,5.643,8.361,1.716,4.378,7.533
+175,Siecledigital.fr,0.001126,"0,442379827",500215,TRUE,Technologie,Economique - Tech - Gaming,2013,TRUE,TRUE,|||,||||,NaN,5.739,4.937,6.149,7.352,5.106
+176,01Net.com,0.002405,"0,442222788",22710000,FALSE,Technologie,Economique - Tech - Gaming,2000,FALSE,FALSE,|||,||||,IT & Consumer,5.517,5.774,5.129,6.782,5.446
+177,Marieclaire.fr,0.001622,"0,440260985",32040000,FALSE,Lifestyle,Lifestyle – Santé – TV,1937,TRUE,TRUE,|||,||||,Leisure and Health,5.124,6.21,4.659,6.622,5.299
+178,Crashdebug.fr,0.000344,"0,432844256",157953,TRUE,Actu,Extrême Droite - Réinformation,2009,FALSE,FALSE,|||,||||,Alternative Health,5.668,8.57,1.467,4.132,7.755
+179,Premiere.fr,0.00203,"0,420969248",9067000,FALSE,Culture,Lifestyle – Santé – TV,1976,FALSE,FALSE,|||,||||,,,,,,
+180,Covid-Factuel.fr,0.000313,"0,420681318",44571,TRUE,Santé,Extrême Droite - Réinformation,2021,FALSE,FALSE,|||,||||,NaN,5.701,8.543,1.38,4.127,7.807
+181,Francemediasnumerique.net,0.000289,"0,427425022",,TRUE,Actu,Extrême Droite - Réinformation,2022,,,|||,||||,,,,,,
+182,Konbini.com,0.001239,"0,418108086",7181000,FALSE,Lifestyle,Lifestyle – Santé – TV,2008,TRUE,TRUE,|||,||||,NaN,4.919,5.688,5.425,7.226,4.633
+183,Les-Crises.fr,0.000549,"0,409337575",715430,TRUE,Actu,Gauche - Extrême Gauche,2011,FALSE,FALSE,|||,||||,Revolutionary Right,4.942,7.606,2.95,5.607,6.048
+184,Purepeople.com,0.001068,"0,406042233",77280000,FALSE,People,Lifestyle – Santé – TV,2001,TRUE,FALSE,|||,||||,Leisure and Health,5.612,6.947,3.629,5.671,6.45
+185,Journalducoin.com,0.001028,"0,401889582",1856000,TRUE,Technologie,Economique - Tech - Gaming,2017,FALSE,FALSE,|||,||||,NaN,5.497,6.345,4.513,6.384,5.741
+186,Acrimed.org,0.000663,"0,396181063",402619,TRUE,Actu,Gauche - Extrême Gauche,2002,TRUE,TRUE,|||,||||,Left Wing,3.288,7.208,3.974,7.196,3.598
+187,Blogdumoderateur.com,0.001363,"0,393690764",6697000,FALSE,Technologie,Economique - Tech - Gaming,,FALSE,FALSE,|||,||||,NaN,5.758,4.742,6.419,7.533,4.955
+188,Vogue.fr,0.001614,"0,393080788",10850000,FALSE,Lifestyle,Lifestyle – Santé – TV,1909,TRUE,FALSE,|||,||||,Leisure and Health,5.654,5.754,5.145,6.666,5.573
+189,Actu-Juridique.fr,0.000737,"0,388381738",1548000,TRUE,Droit,Divers,2018,TRUE,TRUE,|||,||||,NaN,5.08,5.705,5.297,7.135,4.871
+190,Vice.com /fr,0.000875,"0,386474126",34640000,TRUE,Actu,Gauche - Extrême Gauche,1994,FALSE,FALSE,|||,||||,,,,,,
+191,Actu-Environnement.com,0.001143,"0,384778119",710706,TRUE,Ecologie,Economique - Tech - Gaming,2003,TRUE,TRUE,|||,||||,NaN,4.887,4.76,6.513,7.881,4.017
+192,Ladn.eu,0.000974,"0,379989383",870711,FALSE,Lifestyle,Economique - Tech - Gaming,,FALSE,FALSE,|||,||||,NaN,5.178,5.051,6.133,7.574,4.512
+193,Revolutionpermanente.fr,0.000904,"0,37599496",670632,TRUE,Actu,Gauche - Extrême Gauche,2015,FALSE,FALSE,|||,||||,Left Wing,3.894,7.346,3.694,6.677,4.426
+194,Nationalgeographic.fr,0.002049,"0,374913525",9601000,FALSE,Sciences,Divers,,FALSE,FALSE,Prisma Media|Vivendi||,Vincent Bolloré||||,NaN,4.981,5.847,5.17,7.015,4.845
+195,Tetu.com,0.000902,"0,374454952",983303,FALSE,Lifestyle,Lifestyle – Santé – TV,,TRUE,TRUE,|||,||||,NaN,4.286,5.668,5.551,7.532,3.914
+197,Jeuxvideo.com,0.00359,"0,373154022",146400000,FALSE,Jeux_Vidéo,Economique - Tech - Gaming,,TRUE,FALSE,|||,||||,NaN,5.45,6.224,4.603,6.45,5.674
+198,Orientxxi.info,0.000697,"0,371760774",956661,TRUE,Actu,Gauche - Extrême Gauche,2013,TRUE,TRUE,|||,||||,Left Wing,4.06,6.483,4.656,7.183,4.088
+199,Regards.fr,0.000542,"0,368556062",89972,TRUE,Actu,Gauche - Extrême Gauche,1933,FALSE,FALSE,|||,||||,NaN,3.262,6.942,4.16,7.317,3.554
+200,Mediacites.fr,0.001329,"0,366828338",382964,TRUE,Actu_Locale,Divers,2016,TRUE,TRUE,|||,||||,Left Wing,4.193,5.73,5.468,7.579,3.854
+201,Football-Addict.com /fr,0.000502,"0,366491207",377301,FALSE,Sport,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+202,Cerfia.fr,0.000264,"0,363542248",37838,TRUE,Actu,PQR - Sport - Météo,2020,FALSE,FALSE,|||,||||,,,,,,
+203,Lcp.fr,0.001677,"0,362116829",1260000,TRUE,Actu,Divers,2000,FALSE,FALSE,|||,République française||||,Hyper-local (East),5.098,5.589,5.458,7.253,4.825
+204,Aefinfo.fr,0.001038,"0,356849435",712229,TRUE,Actu,Gauche - Extrême Gauche,1998,TRUE,TRUE,|||,||||,NaN,5.129,4.715,6.536,7.928,4.245
+205,Culturepsg.com,0.000334,"0,356763718",9010000,FALSE,Sport,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+206,Lesinrocks.com,0.002371,"0,352544165",1907000,FALSE,Culture,Gauche - Extrême Gauche,1986,TRUE,TRUE,Combat Solutions|||,Matthieu Pigasse||||,Centre,4.475,5.987,5.163,7.23,4.292
+207,Usine-Digitale.fr,0.00162,"0,349800204",732214,TRUE,Technologie,Economique - Tech - Gaming,2013,TRUE,TRUE,|||,||||,IT & Consumer,5.906,4.618,6.518,7.542,5.071
+208,Usbeketrica.com,0.001007,"0,348263833",807748,TRUE,Ecologie,Economique - Tech - Gaming,2010,TRUE,TRUE,|||,||||,NaN,4.899,5.182,6.04,7.595,4.277
+209,Cryptoast.fr,0.000808,"0,347986682",1862000,TRUE,Economie,Economique - Tech - Gaming,2018,FALSE,FALSE,|||,||||,NaN,5.758,6.956,3.596,5.576,6.605
+210,Positivr.fr,0.000925,"0,341732916",2046000,FALSE,Lifestyle,Lifestyle – Santé – TV,2014,TRUE,TRUE,|||,||||,Leisure and Health,4.657,5.755,5.374,7.283,4.386
+211,Egaliteetreconciliation.fr,0.000382,"0,339595091",9453000,TRUE,Actu,Extrême Droite - Réinformation,2007,FALSE,FALSE,|||,||||,Revolutionary Right,5.794,8.658,1.325,3.88,8.003
+212,Larepubliquedespyrenees.fr,0.001082,"0,337210516",8550000,TRUE,Actu_Locale,PQR - Sport - Météo,1944,TRUE,TRUE,Pyrénées Presse|Groupe Sud Ouest France||,Vincent Bolloré||||,,,,,,
+214,Lyoncapitale.fr,0.001545,"0,328600586",3966000,TRUE,Actu_Locale,Divers,1994,TRUE,TRUE,|||,||||,Right Wing,5.199,5.788,5.158,6.949,5.111
+215,Meteofrance.fr,0.006815,"0,325580691",8448000,FALSE,Météo,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+216,Opex360.com,0.001042,"0,324003845",21230000,TRUE,Sécurité,Droite - Extrême Droite,2007,FALSE,FALSE,|||,||||,Right Wing,5.901,6.485,4.148,5.944,6.456
+217,Lalettrepatriote.com,0.000267,"0,323588545",309849,TRUE,Actu,Droite - Extrême Droite,2018,FALSE,FALSE,|||,||||,NaN,6.305,8.591,1.284,3.648,8.659
+218,Geopolitique-Profonde.com,0.000333,"0,322439751",426297,TRUE,Actu,Extrême Droite - Réinformation,2018,FALSE,FALSE,|||,||||,NaN,5.841,8.455,1.563,4.098,7.889
+219,Zonebourse.com,0.00098,"0,321012218",12670000,TRUE,Economie,Economique - Tech - Gaming,2001,TRUE,TRUE,|||,||||,IT & Consumer,5.616,6.353,4.372,6.237,5.999
+220,Femmeactuelle.fr,0.001565,"0,320131024",66850000,FALSE,Lifestyle,Lifestyle – Santé – TV,1984,TRUE,FALSE,Prisma Media|Vivendi||,Vincent Bolloré||||,,,,,,
+221,Lepopulaire.fr,0.001024,"0,317445039",5492000,TRUE,Actu_Locale,PQR - Sport - Météo,1905,TRUE,TRUE,Groupe La Montagne|||,Fondation Varenne||||,Hyper-local (East),4.651,5.682,5.295,7.31,4.501
+222,Larep.fr,0.001364,"0,317051838",7806000,TRUE,Actu_Locale,PQR - Sport - Météo,1944,TRUE,TRUE,Groupe La Montagne|Groupe NRCO||,Fondation Varenne|Famille Saint-Cricq|||,Hyper-local (East),5.205,5.669,5.311,7.14,5.024
+223,Damocles.co,0.000282,"0,314531564",99479,TRUE,Actu,Droite - Extrême Droite,2016,FALSE,FALSE,|||,||||,Identitarian,6.244,8.834,0.961,3.356,8.793
+224,Dreuz.info,0.000606,"0,310681753",815779,TRUE,Actu,Droite - Extrême Droite,2006,FALSE,FALSE,|||,||||,Identitarian,6.274,8.446,1.442,3.729,8.492
+225,Reflets.info,0.000515,"0,308685657",46724,TRUE,Actu,Gauche - Extrême Gauche,2010,TRUE,TRUE,|||,||||,Right Wing,4.232,6.337,4.77,7.187,4.216
+226,Lesnumeriques.com,0.001994,"0,304705423",32550000,FALSE,Technologie,Economique - Tech - Gaming,2004,TRUE,FALSE,|||,||||,IT & Consumer,5.422,5.302,5.75,7.238,4.983
+227,Lagazettedescommunes.com,0.002235,"0,299981989",1868000,TRUE,Administration,Divers,1967,TRUE,TRUE,|||,||||,,,,,,
+228,Hypergames.com,0,"0,297995175",5000,FALSE,Technologie,Divers,,FALSE,FALSE,|||,||||,,,,,,
+229,Rcf.fr,0.001104,"0,296465815",1041000,TRUE,Actu,Droite - Extrême Droite,1988,FALSE,FALSE,|||,||||,NaN,5.413,4.699,6.456,7.754,4.588
+230,Republiquedujapap.com,0.000259,"0,294088805",12757,FALSE,People,Lifestyle – Santé – TV,,FALSE,FALSE,|||,||||,,,,,,
+231,Journaldunet.com,0.002394,"0,290552343",17960000,TRUE,Technologie,Economique - Tech - Gaming,1999,FALSE,FALSE,|||,||||,IT & Consumer,5.855,4.65,6.5,7.581,5.021
+232,Lesakerfrancophone.fr,0.000383,"0,287948876",753501,TRUE,Actu,Extrême Droite - Réinformation,2015,FALSE,FALSE,|||,||||,NaN,5.663,8.335,1.78,4.404,7.532
+233,Tvl.fr,0.000364,"0,598858432",676212,TRUE,Actu,Extrême Droite - Réinformation,2013,FALSE,FALSE,|||,||||,NaN,5.951,8.64,1.302,3.915,8.241
+234,Rugbyrama.fr,0.003102,"0,24401285",37430000,FALSE,Sport,PQR - Sport - Météo,1929,FALSE,FALSE,|||,||||,NaN,5.113,5.884,5.05,6.993,5.087
+235,Charentelibre.fr,0.001544,"0,284928587",12180000,TRUE,Actu_Locale,PQR - Sport - Météo,1944,TRUE,TRUE,Groupe Sud Ouest France|||,Famille Lemoine||||,,,,,,
+237,Arabnews.fr,0.000942,"0,280336216",403445,TRUE,Actu,Droite - Extrême Droite,1975,FALSE,FALSE,|||,||||,NaN,5.315,5.95,4.952,6.771,5.324
+238,Science-Et-Vie.com,0.001334,"0,278234557",16930000,FALSE,Sciences,Lifestyle – Santé – TV,1913,TRUE,TRUE,|||,||||,Leisure and Health,5.321,6.22,4.584,6.467,5.553
+239,Oisehebdo.fr,0.00043,"0,2736237",2280000,TRUE,Actu_Locale,PQR - Sport - Météo,1994,TRUE,TRUE,|||,||||,NaN,4.856,6.074,4.843,7.038,4.923
+240,Programme-Tv.net,0.002713,"0,272965861",234000000,FALSE,TV,Lifestyle – Santé – TV,1986,TRUE,FALSE,Prisma Media|Vivendi||,Vincent Bolloré||||,,,,,,
+241,Marsactu.fr,0.000943,"0,270922733",760674,TRUE,Actu_Locale,Gauche - Extrême Gauche,2010,TRUE,TRUE,|||,||||,NaN,4.469,6.265,4.691,7.015,4.62
+242,Conspiracywatch.info,0.001084,"0,269846963",330313,TRUE,Actu,Gauche - Extrême Gauche,2007,TRUE,TRUE,|||,||||,Right Wing,5.585,5.456,5.538,6.943,5.309
+243,Meteofrance.com,0.010213,"0,268958903",203900000,FALSE,Météo,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+244,Consultor.fr,0.000324,"0,267352658",197138,TRUE,Marketing,Divers,2011,TRUE,FALSE,|||,||||,NaN,5.198,7.198,3.381,5.876,6.073
+245,Cielvoile.fr,0.000279,"0,266275104",31010,TRUE,Actu,Extrême Droite - Réinformation,2011,FALSE,FALSE,|||,||||,NaN,5.987,8.364,1.629,4.092,7.997
+246,Lilianeheldkhawam.com,0.000333,"0,263733366",14017,TRUE,Actu,Extrême Droite - Réinformation,2014,FALSE,FALSE,|||,||||,NaN,5.76,8.453,1.563,4.192,7.785
+248,Pokekalos.fr,0.000265,"0,262639227",1226000,FALSE,BD,Economique - Tech - Gaming,,FALSE,FALSE,|||,||||,,,,,,
+249,Fakirpresse.info,0.000401,"0,262365519",58574,TRUE,Actu,Gauche - Extrême Gauche,1999,FALSE,FALSE,|||,||||,Left Wing,3.625,6.942,4.193,7.144,3.862
+250,Exoconscience.com,0.000283,"0,260550772",31103,TRUE,Actu,Extrême Droite - Réinformation,2022,FALSE,FALSE,|||,||||,NaN,5.706,8.508,1.577,4.168,7.717
+251,Letribunaldunet.fr,0.000327,"0,25647032",13960000,FALSE,People,Lifestyle – Santé – TV,2012,FALSE,FALSE,|||,||||,Leisure and Health,5.67,7.477,2.936,5.185,6.905
+252,Toutinfos.com,0.000277,"0,255772855",5000,TRUE,Actu,Lifestyle – Santé – TV,2019,FALSE,FALSE,|||,||||,,,,,,
+253,Zdnet.fr,0.00117,"0,255527285",2052000,TRUE,Technologie,Economique - Tech - Gaming,1991,TRUE,FALSE,|||,||||,IT & Consumer,5.743,4.805,6.329,7.522,4.992
+254,Basketusa.com,0.000626,"0,253848933",27620000,FALSE,Sport,PQR - Sport - Météo,,TRUE,FALSE,|||,||||,,,,,,
+255,Phonandroid.com,0.001587,"0,249684445",19570000,FALSE,Technologie,Economique - Tech - Gaming,2010,FALSE,FALSE,|||,||||,IT & Consumer,5.507,6.402,4.358,6.218,5.882
+256,Reussir.fr,0.000734,"0,249069993",1104000,TRUE,Agriculture,Divers,1986,TRUE,FALSE,|||,||||,NaN,5.713,4.531,6.689,7.75,4.759
+257,Chartsinfrance.net,0.000753,"0,245669218",6106000,FALSE,People,Lifestyle – Santé – TV,,TRUE,FALSE,|||,||||,,,,,,
+258,Infomigrants.net,0.001167,"0,240372413",1255000,TRUE,Actu,Gauche - Extrême Gauche,2017,FALSE,FALSE,|||,||||,NaN,4.306,6.377,4.61,6.963,4.479
+259,Livrenoir.fr,0.000271,"0,239345757",512253,TRUE,Actu,Droite - Extrême Droite,2021,TRUE,TRUE,|||,||||,,,,,,
+260,Goldnadel.tv,0.000263,"0,238118036",5000,TRUE,Actu,Droite - Extrême Droite,2019,FALSE,FALSE,|||,||||,,,,,,
+262,Vanityfair.fr,0.00162,"0,2374388",3969000,FALSE,Lifestyle,Lifestyle – Santé – TV,2004,TRUE,FALSE,|||,||||,Leisure and Health,5.325,6.016,4.904,6.686,5.357
+263,Ign.com,0.002811,"0,236798439",349200000,FALSE,Jeux_Vidéo,Economique - Tech - Gaming,,FALSE,FALSE,|||,||||,,,,,,
+264,Linternaute.com,0.001374,"0,236572244",100700000,TRUE,Actu,Divers,2000,FALSE,FALSE,|||,||||,Leisure and Health,5.216,6.737,3.961,6.111,5.822
+265,Dalloz-Actualite.fr,0.001363,"0,2365473",746269,TRUE,Droit,Gauche - Extrême Gauche,2010,TRUE,FALSE,|||,||||,Left Wing,5.386,5.137,5.977,7.495,4.802
+266,Profidecatholica.com,0.000313,"0,232546826",148740,TRUE,Actu,Extrême Droite - Réinformation,2017,FALSE,FALSE,|||,||||,NaN,5.881,8.609,1.332,3.919,8.099
+267,Cointribune.com,0.000442,"0,23112726",5695000,TRUE,Economie,Economique - Tech - Gaming,2016,FALSE,FALSE,|||,||||,NaN,5.729,6.61,4.041,5.972,6.278
+268,Russiepolitics.blogspot.com,0.000288,"0,230808908",83263,TRUE,Actu,Divers,2000,FALSE,FALSE,|||,||||,,,,,,
+271,Lamarseillaise.fr,0.001245,"0,22998648",498665,TRUE,Actu_Locale,Gauche - Extrême Gauche,1944,TRUE,TRUE,|||,||||,Left Wing,3.956,5.988,5.002,7.595,3.899
+272,Bondyblog.fr,0.002348,"0,229442642",248128,TRUE,Actu,Gauche - Extrême Gauche,2005,TRUE,TRUE,|||,||||,Left Wing,3.704,6.594,4.637,7.345,3.706
+273,Onzemondial.com,0.000917,"0,228460638",14290000,FALSE,Sport,PQR - Sport - Météo,1989,FALSE,FALSE,|||,||||,,,,,,
+274,Madmoizelle.com,0.000828,"0,227845342",8042000,FALSE,Lifestyle,Lifestyle – Santé – TV,2005,TRUE,FALSE,|||,||||,Leisure and Health,4.478,5.92,5.277,7.306,4.23
+276,Le10Sport.com,0.000515,"0,225991886",32120000,FALSE,Sport,PQR - Sport - Météo,,TRUE,FALSE,|||,||||,,,,,,
+277,Lejsl.com,0.002478,"0,224089856",11000000,TRUE,Actu_Locale,PQR - Sport - Météo,1826,TRUE,TRUE,Groupe EBRA|||,Crédit Mutuel||||,Hyper-local (East),5.327,5.672,5.271,7.008,5.206
+278,Jim.fr,0.000342,"0,222040896",352095,TRUE,Santé,Extrême Droite - Réinformation,1979,TRUE,FALSE,|||,||||,NaN,5.647,5.688,5.142,6.785,5.584
+280,Lesmoutonsenrages.fr,0.000375,"0,216569637",896787,TRUE,Actu,Extrême Droite - Réinformation,2010,FALSE,FALSE,|||,||||,Revolutionary Right,5.734,8.512,1.521,4.133,7.803
+281,H16Free.com,0.000441,"0,215432777",332329,TRUE,Actu,Economique - Tech - Gaming,2010,FALSE,FALSE,|||,||||,,,,,,
+282,Insolentiae.com,0.000335,"0,21241896",2166000,TRUE,Actu,Extrême Droite - Réinformation,2015,TRUE,FALSE,|||,||||,NaN,5.849,8.138,1.957,4.415,7.668
+283,Sortiraparis.com,0.001013,"0,209575811",23100000,FALSE,Culture,Divers,2002,FALSE,FALSE,|||,||||,NaN,5.454,5.827,5.039,6.744,5.448
+284,Rue89Strasbourg.com,0.000632,"0,209272263",573669,TRUE,Actu_Locale,Gauche - Extrême Gauche,2012,TRUE,TRUE,|||,||||,Left Wing,4.192,6.04,5.12,7.429,4.008
+285,Xboxygen.com,0.000272,"0,208792089",3378000,FALSE,Jeux_Vidéo,Economique - Tech - Gaming,,FALSE,FALSE,|||,||||,,,,,,
+286,Kultt.fr,0.000264,"0,208767405",33720,FALSE,Lifestyle,Lifestyle – Santé – TV,,FALSE,FALSE,|||,||||,,,,,,
+287,Ohmymag.com,0.00056,"0,208295557",13690000,FALSE,Lifestyle,Lifestyle – Santé – TV,2013,FALSE,FALSE,|||,||||,,,,,,
+288,Nordlittoral.fr,0.001013,"0,206568056",4523000,TRUE,Actu_Locale,PQR - Sport - Météo,1944,TRUE,TRUE,La Voix du Nord SA|Groupe Rossel La Voix||,Famille Hurbain|Crédit agricole|||,PQR & Mag,5.11,5.52,5.451,7.308,4.866
+289,Lvsl.fr,0.000566,"0,20586937",180970,TRUE,Actu,Gauche - Extrême Gauche,2016,TRUE,TRUE,|||,||||,NaN,3.823,6.894,4.189,7.033,4.097
+290,Lavoiedelepee.blogspot.com,0.000854,"0,205632901",391815,TRUE,Sécurité,Droite - Extrême Droite,2000,FALSE,FALSE,|||,||||,,,,,,
+291,Egora.fr,0.000495,"0,205292565",1026000,TRUE,Santé,PQR - Sport - Météo,1999,TRUE,TRUE,|||,||||,NaN,5.599,5.646,5.257,6.864,5.444
+292,Vosgesmatin.fr,0.001597,"0,20494588",5538000,TRUE,Actu_Locale,PQR - Sport - Météo,2009,TRUE,TRUE,Groupe EBRA|||,Crédit Mutuel||||,Hyper-local (East),5.419,5.884,4.962,6.804,5.456
+294,Real-France.fr,0.000284,"0,201825023",2784000,FALSE,Sport,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+295,Lechorepublicain.fr,0.001189,"0,201395954",5408000,TRUE,Actu_Locale,PQR - Sport - Météo,1922,TRUE,TRUE,Groupe La Montagne|||,Fondation Varenne||||,Hyper-local (East),5.567,5.424,5.523,7.111,5.285
+296,Attali.com,0.000361,"0,200810417",156735,TRUE,Actu,Extrême Droite - Réinformation,1999,FALSE,FALSE,|||,||||,NaN,5.677,6.099,4.701,6.393,5.886
+297,Bebasket.fr,0.000656,"0,200617698",3103000,FALSE,Sport,PQR - Sport - Météo,,TRUE,FALSE,|||,||||,,,,,,
+298,Anthropo-Logiques.org,0.000286,"0,199385244",42250,TRUE,Actu,Extrême Droite - Réinformation,2020,FALSE,FALSE,|||,||||,NaN,5.73,8.406,1.655,4.296,7.648
+299,Lest-Eclair.fr,0.000632,"0,198547239",3457000,TRUE,Actu_Locale,PQR - Sport - Météo,1945,TRUE,TRUE,La Voix du Nord SA|Groupe Rossel La Voix||,Famille Hurbain|Crédit agricole|||,PQR & Mag,5.647,5.636,5.29,6.964,5.503
+300,Libreactu.fr,0.000262,"0,198198626",5000,TRUE,Actu,Gauche - Extrême Gauche,2017,FALSE,FALSE,|||,||||,,,,,,
+301,News-24.fr,0.000436,"0,198017845",28565,TRUE,Actu,Extrême Droite - Réinformation,1998,FALSE,FALSE,|||,||||,NaN,5.491,6.315,4.352,6.256,5.905
+304,Doctissimo.fr,0.001538,"0,195926906",34280000,TRUE,Santé,Lifestyle – Santé – TV,2000,TRUE,FALSE,|||,||||,NaN,5.491,6.305,4.426,6.323,5.817
+306,Letudiant.fr,0.001878,"0,194647316",14180000,TRUE,Education,Economique - Tech - Gaming,1972,TRUE,FALSE,|||,||||,Centre,5.207,4.795,6.453,7.895,4.35
+307,Maddyness.com,0.000912,"0,194474671",917335,TRUE,Economie,Economique - Tech - Gaming,2012,FALSE,FALSE,|||,||||,IT & Consumer,6.027,4.103,7.179,7.884,4.824
+308,Agoravox.fr,0.000743,"0,194165093",877500,TRUE,Actu,Extrême Droite - Réinformation,2005,FALSE,FALSE,|||,||||,Revolutionary Right,5.349,7.727,2.634,5.135,6.712
+309,Generationfrexit.fr,0.000267,"0,193235071",7876,TRUE,Actu,Extrême Droite - Réinformation,2020,FALSE,FALSE,|||,||||,,,,,,
+310,Acteurspublics.fr,0.000778,"0,190697897",1411000,TRUE,Actu,Economique - Tech - Gaming,1988,TRUE,TRUE,|||,||||,NaN,5.433,4.691,6.476,7.78,4.606
+311,Journaldesfemmes.fr,0.001733,"0,16459097",117600000,FALSE,Lifestyle,Lifestyle – Santé – TV,2003,FALSE,FALSE,|||,||||,Leisure and Health,5.406,6.258,4.558,6.413,5.689
+312,Lesjoiesducode.fr,0,"0,18866934",289578,FALSE,Technologie,Divers,,FALSE,FALSE,|||,||||,,,,,,
+313,Radioclassique.fr,0.001598,"0,185634294",1537000,FALSE,Musique,Droite - Extrême Droite,,FALSE,FALSE,Groupe Les Échos - Le Parisien|LVMH||,Bernard Arnault||||,NaN,5.686,5.551,5.368,6.87,5.508
+314,Radiocourtoisie.fr,0.00033,"0,185142311",8742,TRUE,Actu,Droite - Extrême Droite,1987,FALSE,FALSE,|||,||||,,,,,,
+315,Topmercato.com,0.000419,"0,184965886",7478000,FALSE,Sport,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+316,Actuforcesdelordre.fr,0.000275,"0,184615539",913738,TRUE,Sécurité,PQR - Sport - Météo,2022,FALSE,FALSE,|||,||||,NaN,6.046,7.55,2.748,4.936,7.498
+317,Aoc.media,0.00079,"0,184118719",297938,TRUE,Actu,Gauche - Extrême Gauche,2018,TRUE,TRUE,|||,||||,Left Wing,3.905,5.864,5.406,7.639,3.555
+318,Forbes.fr,0.0021,"0,183116068",2249000,TRUE,Economie,Economique - Tech - Gaming,1917,FALSE,FALSE,|||,||||,NaN,5.79,5.141,5.884,7.201,5.292
+319,Xn--Franais-Xxa.es,0.000274,"0,177784846",12126,TRUE,Actu,Gauche - Extrême Gauche,2020,FALSE,FALSE,|||,||||,,,,,,
+320,Maville.com,0.000919,"0,177735568",9641000,TRUE,Actu_Locale,PQR - Sport - Météo,1998,FALSE,FALSE,|||,||||,,,,,,
+321,Elucid.media,0.000387,"0,17759645",658339,TRUE,Actu,Gauche - Extrême Gauche,2021,TRUE,TRUE,|||,||||,NaN,4.291,7.328,3.523,6.342,4.986
+322,Altselection.com,0.000258,"0,177244592",5436000,FALSE,Musique,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+323,Objectifgard.com,0.001138,"0,177164152",3208000,TRUE,Actu_Locale,PQR - Sport - Météo,2008,TRUE,TRUE,|||,||||,PQR & Mag,5.143,5.533,5.451,7.263,4.955
+324,Turbo.fr,0.000697,"0,177031383",4901000,FALSE,Transports,Economique - Tech - Gaming,,TRUE,FALSE,|||,||||,NaN,5.653,6.934,3.611,5.69,6.505
+325,Trustmyscience.com,0.00065,"0,176310158",2695000,TRUE,Sciences,Extrême Droite - Réinformation,2016,FALSE,FALSE,|||,||||,Leisure and Health,5.349,6.019,4.868,6.637,5.419
+326,Nicepresse.com,0.000521,"0,176107997",3882000,TRUE,Actu_Locale,Divers,2020,FALSE,FALSE,|||,||||,NaN,6.095,6.551,4.036,5.844,6.737
+327,Afriquexxi.info,0.000415,"0,175746265",89394,TRUE,Actu,Gauche - Extrême Gauche,2021,TRUE,TRUE,|||,||||,NaN,4.225,6.527,4.653,7.071,4.231
+328,Lepointcritique.fr,0.000277,"0,175306274",52086000,TRUE,Santé,Extrême Droite - Réinformation,2022,FALSE,FALSE,|||,||||,,,,,,
+329,Gqmagazine.fr,0.002089,"0,175234311",7506000,FALSE,Lifestyle,Lifestyle – Santé – TV,1957,TRUE,FALSE,|||,||||,Leisure and Health,5.407,6.317,4.486,6.351,5.693
+330,Lepetitjournal.com,0.001169,"0,17497155",2591000,TRUE,Actu,Gauche - Extrême Gauche,2001,TRUE,TRUE,|||,||||,Centre,5.544,5.234,5.761,7.152,5.147
+331,Laminutedericardo.com,0.000281,"0,174602015",8144,TRUE,Actu,Extrême Droite - Réinformation,2020,FALSE,FALSE,|||,||||,NaN,5.794,8.568,1.424,4.01,7.913
+332,Planet.fr,0.000412,"0,171755336",14660000,FALSE,Lifestyle,Lifestyle – Santé – TV,2007,TRUE,TRUE,|||,||||,Leisure and Health,5.431,6.969,3.604,5.789,6.262
+333,Baslesmasques.com,0.000294,"0,171485205",48043,TRUE,Actu,Extrême Droite - Réinformation,2020,FALSE,FALSE,|||,||||,,,,,,
+334,Lavie.fr,0.001423,"0,170920294",990772,TRUE,Actu,Droite - Extrême Droite,2007,TRUE,TRUE,Groupe Le Monde|Le Monde libre||,Xavier Niel|Matthieu Pigasse|||,Right Wing,5.216,5.488,5.486,7.115,4.945
+335,Causette.fr,0.000686,"0,170519156",395346,TRUE,Actu,Gauche - Extrême Gauche,2009,TRUE,TRUE,|||,||||,Centre,4.125,5.429,5.881,7.847,3.546
+336,Creapills.com,0.000453,"0,169901727",1155000,FALSE,Lifestyle,Economique - Tech - Gaming,,FALSE,FALSE,|||,||||,NaN,5.357,5.71,5.254,6.887,5.211
+337,Centrepresseaveyron.fr,0.00143,"0,169278053",12650000,TRUE,Actu_Locale,PQR - Sport - Météo,2000,TRUE,TRUE,|||,||||,NaN,5.07,5.798,5.211,7.055,4.932
+338,Psgcommunity.com,0.00031,"0,166353289",7430,FALSE,Sport,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+339,Resistancextremismes.eu,0.000258,"0,166224342",5000,TRUE,Actu,Droite - Extrême Droite,2021,FALSE,FALSE,|||,||||,NaN,6.235,3.84,7.637,8.035,4.784
+340,Ski-Nordique.net,0.000273,"0,16598993",1293000,FALSE,Sport,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+341,Cbnews.fr,0.000481,"0,164916785",364095,TRUE,Economie,Economique - Tech - Gaming,1986,TRUE,TRUE,|||,||||,NaN,5.697,4.659,6.487,7.553,4.895
+342,Rci.fm,0.000802,"0,161645893",2059000,TRUE,Actu_Locale,Lifestyle – Santé – TV,1960,FALSE,FALSE,|||,||||,NaN,4.823,6.603,4.903,7.304,4.544
+343,Telestar.fr,0.001056,"0,161352335",9388000,FALSE,TV,Lifestyle – Santé – TV,1976,TRUE,FALSE,|||,||||,,,,,,
+344,Beinsports.com/fr-fr,0.001016,"0,157061664",,FALSE,Sport,PQR - Sport - Météo,,,,|||,||||,,,,,,
+345,Pokegraph.com,0.000425,"0,157058796",97851,FALSE,BD,Economique - Tech - Gaming,,FALSE,FALSE,|||,||||,,,,,,
+346,Leberry.fr,0.000891,"0,156778301",3382000,TRUE,Actu_Locale,PQR - Sport - Météo,1944,TRUE,TRUE,Groupe La Montagne|||,Fondation Varenne||||,NaN,5.436,5.4,5.536,7.226,5.16
+347,Meteo-Express.com,0.001163,"0,156649677",648768,FALSE,Météo,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+348,Butfootballclub.fr,0.000565,"0,156586905",4459000,FALSE,Sport,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+349,Desk-Russie.eu,0.0005,"0,155589454",144884,TRUE,Actu,Gauche - Extrême Gauche,2021,FALSE,FALSE,|||,||||,NaN,5.654,4.693,6.488,7.561,4.843
+350,Contretemps.eu,0.000693,"0,154928386",258000,TRUE,Actu,Gauche - Extrême Gauche,2001,FALSE,FALSE,|||,||||,NaN,3.206,7.192,4.039,7.301,3.464
+351,En-Attendant-Nadeau.fr,0.000518,"0,154822144",238573,FALSE,Culture,Gauche - Extrême Gauche,,TRUE,TRUE,|||,||||,NaN,4.093,6.366,4.771,7.202,4.082
+352,Brunobertez.com,0.000342,"0,153575083",117268,TRUE,Actu,Extrême Droite - Réinformation,2015,FALSE,FALSE,|||,||||,NaN,5.826,8.14,1.965,4.413,7.62
+353,Melty.fr,0.000446,"0,153098467",7327000,FALSE,Lifestyle,Lifestyle – Santé – TV,2008,FALSE,FALSE,|||,||||,,,,,,
+354,Tradingsat.com,0.000656,"0,152141592",3053000,TRUE,Economie,Economique - Tech - Gaming,2005,TRUE,FALSE,|||,||||,NaN,5.459,6.503,4.202,6.204,5.913
+355,Zinfos974.com,0.000457,"0,151675734",3330000,TRUE,Actu,Extrême Droite - Réinformation,2008,TRUE,TRUE,|||,||||,Right Wing,4.952,6.367,4.556,6.739,5.175
+356,Booska-P.com,0.00057,"0,151336628",1431000,FALSE,Lifestyle,PQR - Sport - Météo,,TRUE,FALSE,|||,||||,,,,,,
+357,Rapportsdeforce.fr,0.000416,"0,151119672",129475,TRUE,Actu,Gauche - Extrême Gauche,2017,TRUE,TRUE,|||,||||,NaN,3.166,7.094,4.144,7.396,3.371
+358,Brut.media,0.001216,"0,176879637",498101,TRUE,Actu,Lifestyle – Santé – TV,2016,FALSE,FALSE,|||,||||,NaN,4.804,5.537,5.628,7.428,4.394
+359,Strategies.fr,0.001549,"0,150587717",354580,TRUE,Marketing,Economique - Tech - Gaming,1971,TRUE,FALSE,|||,||||,NaN,5.538,4.615,6.573,7.67,4.676
+360,Disneyphile.fr,0.000304,"0,150330693",253819,FALSE,BD,Lifestyle – Santé – TV,,FALSE,FALSE,|||,||||,,,,,,
+361,Sports.fr,0.00069,"0,149977116",35690000,FALSE,Sport,PQR - Sport - Météo,,TRUE,FALSE,|||,||||,NaN,5.21,6.723,4.03,6.094,5.795
+362,Omertamedia.fr,0.000371,"0,14990764",105288,TRUE,Actu,Droite - Extrême Droite,2022,TRUE,TRUE,|||,||||,,,,,,
+364,Aufeminin.com,0.000767,"0,149880859",23520000,FALSE,Lifestyle,Lifestyle – Santé – TV,1999,TRUE,FALSE,|||,||||,Leisure and Health,5.039,6.335,4.457,6.518,5.374
+365,Lejdc.fr,0.001379,"0,148803479",3154000,TRUE,Actu_Locale,PQR - Sport - Météo,1944,TRUE,TRUE,Groupe La Montagne|||,Fondation Varenne||||,Hyper-local (East),5.14,5.327,5.73,7.39,4.726
+366,Voltairenet.org,0.000367,"0,147801537",2211000,TRUE,Actu,Extrême Droite - Réinformation,2012,FALSE,FALSE,|||,||||,Right Wing,5.868,8.389,1.653,4.153,7.832
+367,Maligue2.fr,0.000581,"0,147789276",2609000,FALSE,Sport,PQR - Sport - Météo,,TRUE,FALSE,|||,||||,,,,,,
+368,Gamekult.com,0.000921,"0,147529413",3119000,FALSE,Jeux_Vidéo,Economique - Tech - Gaming,2000,TRUE,FALSE,|||,||||,,,,,,
+369,Olympique-Et-Lyonnais.com,0.00094,"0,145264985",5692000,FALSE,Sport,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+370,Lasueur.com,0.000258,"0,144672752",5348000,FALSE,Sport,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+371,Lyonne.fr,0.001192,"0,144503155",3578000,TRUE,Actu_Locale,PQR - Sport - Météo,1944,TRUE,TRUE,Groupe La Montagne|||,Fondation Varenne||||,Hyper-local (East),5.543,5.457,5.435,7.079,5.374
+372,Radioj.fr,0.001042,"0,142083644",69167,TRUE,Actu,Lifestyle – Santé – TV,1984,FALSE,FALSE,|||,||||,,,,,,
+373,Goal.com,0.000989,"0,142025299",283700000,FALSE,Sport,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+374,Moneyvox.fr,0.001158,"0,141792526",12630000,TRUE,Economie,Economique - Tech - Gaming,2003,FALSE,FALSE,|||,||||,IT & Consumer,5.552,5.72,5.191,6.79,5.441
+375,Loikleflochprigent.fr,0.00026,"0,141715295",5000,TRUE,Actu,Droite - Extrême Droite,2020,FALSE,FALSE,|||,||||,,,,,,
+376,Revue-Ballast.fr,0.000463,"0,140133725",60426,TRUE,Actu,Gauche - Extrême Gauche,2014,FALSE,FALSE,|||,||||,NaN,3.322,7.133,4.139,7.251,3.518
+377,Lebleudumiroir.fr,0.000297,"0,139426908",126094,FALSE,Culture,Gauche - Extrême Gauche,,FALSE,FALSE,|||,||||,,,,,,
+378,Rue89Lyon.fr,0.000465,"0,139172583",342580,TRUE,Actu_Locale,Divers,2011,TRUE,TRUE,|||,||||,Left Wing,4.031,5.84,5.476,7.672,3.62
+379,Dragonballsuper-France.fr,0.000274,"0,13872352",843217,FALSE,BD,Economique - Tech - Gaming,,FALSE,FALSE,|||,||||,,,,,,
+380,Rollingstone.fr,0.000506,"0,138636192",954934,FALSE,Culture,Lifestyle – Santé – TV,,TRUE,TRUE,|||,||||,,,,,,
+381,Latribunedelart.com,0.000427,"0,138514291",218011,FALSE,Culture,PQR - Sport - Météo,,TRUE,TRUE,|||,||||,NaN,5.819,5.995,4.724,6.424,6.043
+382,Autoplus.fr,0.001353,"0,138347924",15700000,FALSE,Transports,Economique - Tech - Gaming,1988,TRUE,FALSE,|||,||||,Leisure and Health,5.594,6.812,3.718,5.793,6.415
+383,Tvadp.fr,0.000262,"0,137320449",33301,TRUE,Actu,Extrême Droite - Réinformation,2021,FALSE,FALSE,|||,||||,,,,,,
+384,Canardpc.com,0.000597,"0,136627994",1485000,FALSE,Technologie,Economique - Tech - Gaming,2003,FALSE,FALSE,|||,||||,,,,,,
+385,Tennisactu.net,0.000389,"0,136479453",1890000,FALSE,Sport,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+386,Lemondeinformatique.fr,0.000959,"0,136305066",1362000,TRUE,Technologie,Economique - Tech - Gaming,1981,TRUE,FALSE,|||,||||,NaN,5.803,4.478,6.679,7.761,4.86
+388,Tribunejuive.info,0.000398,"0,135533375",580337,TRUE,Actu,Droite - Extrême Droite,1968,FALSE,FALSE,|||,||||,NaN,5.96,7.096,3.242,5.215,7.058
+389,Lemediasocial.fr,0.000302,"0,135482541",185275,TRUE,Actu,Divers,1983,TRUE,TRUE,|||,||||,NaN,5.01,4.584,6.635,8.017,4.094
+390,Sport.fr,0.000393,"0,134657688",5961000,FALSE,Sport,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+391,Famillechretienne.fr,0.000567,"0,134304666",1430000,TRUE,Actu,Droite - Extrême Droite,1978,TRUE,TRUE,|||,||||,NaN,6.192,6.747,3.683,5.521,7.039
+392,Laviedesidees.fr,0.001267,"0,13409968",428468,TRUE,Actu,Gauche - Extrême Gauche,2007,FALSE,FALSE,|||,||||,NaN,4.099,5.839,5.37,7.594,3.788
+393,Boursier.com,0.000629,"0,133892569",6554000,TRUE,Economie,Economique - Tech - Gaming,1998,TRUE,FALSE,|||,||||,Right Wing,5.536,5.613,5.358,6.9,5.351
+394,Comicsblog.fr,0.000605,"0,133817792",813523,FALSE,BD,Economique - Tech - Gaming,,FALSE,FALSE,|||,||||,,,,,,
+395,Lecafedugeek.fr,0.000319,"0,133220201",206956,FALSE,Technologie,Economique - Tech - Gaming,2012,TRUE,FALSE,|||,||||,,,,,,
+396,Israel247.org,0.000282,"0,131421444",519472,TRUE,Actu,Droite - Extrême Droite,2021,FALSE,FALSE,|||,||||,NaN,6.136,8.313,1.674,3.986,8.213
+397,Madeinmarseille.net,0.000524,"0,1314024",887665,TRUE,Actu_Locale,PQR - Sport - Météo,2014,TRUE,TRUE,|||,||||,NaN,5.257,5.02,6.075,7.482,4.654
+398,Beauxarts.com,0.000396,"0,131303598",1167000,FALSE,Culture,Gauche - Extrême Gauche,,TRUE,TRUE,|||,||||,NaN,5.127,5.158,5.927,7.503,4.59
+399,Linforme.com,0.002547,"0,130865656",966444,TRUE,Economie,Economique - Tech - Gaming,2022,TRUE,TRUE,|||,||||,NaN,4.993,5.838,5.179,7.112,4.846
+400,Legeneraliste.fr,0.000452,"0,130702104",5000,TRUE,Santé,Extrême Droite - Réinformation,1975,TRUE,FALSE,|||,||||,,,,,,
+401,60Millions-Mag.com,0.002473,"0,130627605",2651000,TRUE,Consommation,Lifestyle – Santé – TV,1970,TRUE,FALSE,|||,||||,Hyper-centre,4.953,6.208,4.718,6.745,5.105
+402,Lequotidien.re,0.000287,"0,130503744",260361,TRUE,Actu_Locale,Extrême Droite - Réinformation,1976,TRUE,TRUE,|||,||||,,,,,,
+403,Freelanceinfos.fr,0.000259,"0,129079212",101278,FALSE,Lifestyle,Economique - Tech - Gaming,,FALSE,FALSE,|||,||||,NaN,5.427,8.168,2.094,4.705,7.132
+404,Foot-National.com,0.000621,"0,128867149",6699000,FALSE,Sport,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+405,Franceantilles.fr,0.000672,"0,128715043",1708000,TRUE,Actu_Locale,Gauche - Extrême Gauche,1964,TRUE,TRUE,NJJ|Fonds pour l'indépendance de la presse||,Xavier Niel||||,,,,,,
+406,Neonmag.fr,0.001083,"0,127751523",136367,FALSE,Lifestyle,Lifestyle – Santé – TV,,TRUE,TRUE,Prisma Media|Vivendi||,Vincent Bolloré||||,,,,,,
+407,Cyclismactu.net,0.000396,"0,127548749",7440000,FALSE,Sport,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+408,Quechoisir.org,0.006675,"0,127518092",19090000,TRUE,Consommation,Economique - Tech - Gaming,1961,TRUE,TRUE,|||,||||,IT & Consumer,4.898,6.001,5.023,7.016,4.823
+409,Economiematin.fr,0.000488,"0,127514947",1387000,TRUE,Economie,Economique - Tech - Gaming,2012,TRUE,TRUE,|||,||||,NaN,5.864,6.071,4.615,6.391,6.11
+410,Nova.fr,0.000936,"0,127489812",1185000,FALSE,Musique,Gauche - Extrême Gauche,,FALSE,FALSE,Combat Solutions|||,Matthieu Pigasse||||,NaN,4.27,5.765,5.46,7.444,3.919
+411,Thinkerview.com,0.000288,"0,126948454",161200,TRUE,Actu,Extrême Droite - Réinformation,2013,FALSE,FALSE,|||,||||,,,,,,
+412,Vakita.fr,0.000319,"0,126244601",111060,FALSE,Animaux,Divers,,FALSE,FALSE,|||,||||,,,,,,
+413,Philomag.com,0.001101,"0,125912886",1461000,FALSE,Culture,Gauche - Extrême Gauche,,TRUE,TRUE,|||,||||,NaN,4.662,5.605,5.586,7.42,4.261
+414,Aphadolie.com,0.000295,"0,125840206",24896,TRUE,Actu,Extrême Droite - Réinformation,2017,FALSE,FALSE,|||,||||,,,,,,
+415,Lephoceen.fr,0.000596,"0,125629977",14850000,TRUE,Actu_Locale,PQR - Sport - Météo,2008,FALSE,FALSE,|||,||||,,,,,,
+416,Ecranlarge.com,0.000844,"0,123250532",10790000,FALSE,Culture,Lifestyle – Santé – TV,2004,TRUE,FALSE,|||,||||,,,,,,
+417,Baz-Art.org,0.000258,"0,123195513",72099,FALSE,Culture,Divers,,FALSE,FALSE,|||,||||,,,,,,
+418,Lechodelaboucle.fr,0.000258,"0,123073828",26385,TRUE,Actu_Locale,PQR - Sport - Météo,2014,FALSE,FALSE,|||,||||,,,,,,
+419,Bsmart.fr,0.000436,"0,122700125",105794,TRUE,Actu,Lifestyle – Santé – TV,2020,FALSE,FALSE,|||,||||,NaN,6.042,4.004,7.307,7.972,4.763
+420,Lanceuralerte.org,0.000267,"0,121998976",14465,TRUE,Actu,Divers,2018,FALSE,FALSE,|||,||||,,,,,,
+421,Webgirondins.com,0.000323,"0,121960414",1942000,FALSE,Sport,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+423,Automobile-Propre.com,0.001058,"0,121558593",8842000,FALSE,Transports,Economique - Tech - Gaming,,TRUE,FALSE,|||,||||,NaN,5.641,6.138,4.604,6.353,5.907
+425,Lsa-Conso.fr,0.00345,"0,119877442",1631000,TRUE,Consommation,Economique - Tech - Gaming,1958,TRUE,FALSE,|||,||||,IT & Consumer,5.75,4.364,6.876,7.802,4.709
+426,Coinacademy.fr,0.000326,"0,119872759",725729,TRUE,Economie,Economique - Tech - Gaming,2021,FALSE,FALSE,|||,||||,,,,,,
+427,Linfo.re,0.000304,"0,118963114",3665000,TRUE,Actu_Locale,Lifestyle – Santé – TV,2009,TRUE,TRUE,|||,||||,NaN,5.263,6.34,4.518,6.476,5.522
+428,Cahiers-Pedagogiques.com,0.000299,"0,118743394",106989,FALSE,Education,Gauche - Extrême Gauche,,FALSE,FALSE,|||,||||,,,,,,
+429,Mac4Ever.com,0.000358,"0,118445307",2157000,FALSE,Technologie,Economique - Tech - Gaming,,FALSE,FALSE,|||,||||,,,,,,
+430,Transitionsenergies.com,0.000327,"0,118120126",201185,TRUE,Ecologie,Economique - Tech - Gaming,2019,FALSE,FALSE,|||,||||,NaN,5.937,5.629,5.225,6.741,5.841
+431,Lafranceliberee.fr,0.000258,"0,116467295",5000,TRUE,Actu,Droite - Extrême Droite,2019,FALSE,FALSE,|||,||||,,,,,,
+432,Gameblog.fr,0.000647,"0,116299481",11170000,FALSE,Jeux_Vidéo,Economique - Tech - Gaming,,TRUE,FALSE,|||,||||,,,,,,
+433,Leblogalupus.com,0.000341,"0,116246938",9814,TRUE,Actu,Extrême Droite - Réinformation,2009,FALSE,FALSE,|||,||||,Revolutionary Right,5.887,8.28,1.739,4.177,7.835
+434,Christec.net,0.000258,"0,116026048",10891,FALSE,Technologie,Economique - Tech - Gaming,,FALSE,FALSE,|||,||||,,,,,,
+435,Yetiblog.org,0.000284,"0,115256052",5000,TRUE,Actu,Extrême Droite - Réinformation,2005,FALSE,FALSE,|||,||||,Right Wing,5.312,7.973,2.362,4.981,6.789
+436,Jeuxactu.com,0.000432,"0,114037273",999191,FALSE,Jeux_Vidéo,Lifestyle – Santé – TV,,TRUE,FALSE,|||,||||,,,,,,
+437,Arteradio.com,0.007043,"0,113709728",700504,FALSE,Culture,Gauche - Extrême Gauche,,FALSE,FALSE,|||,||||,NaN,3.999,6.393,4.855,7.247,3.903
+438,Sciencepost.fr,0.000618,"0,113521392",5176000,FALSE,Sciences,Divers,2014,FALSE,FALSE,|||,||||,Leisure and Health,5.178,6.247,4.611,6.557,5.363
+439,Contexte.com,0.000991,"0,113352329",210231,TRUE,Ecologie,Divers,2013,TRUE,TRUE,|||,||||,,,,,,
+440,Hospimedia.fr,0.000294,"0,112774012",220481,TRUE,Santé,Divers,2002,TRUE,FALSE,|||,||||,NaN,5.72,4.311,6.895,7.923,4.664
+441,Operanewsapp.com,0.000265,"0,112366667",5867000,TRUE,Actu,Extrême Droite - Réinformation,2019,FALSE,FALSE,|||,||||,NaN,5.667,7.264,3.228,5.339,6.743
+442,Athletv.fr,0.000285,"0,112319968",69823,FALSE,Sport,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+443,Xavier-Bazin.fr,0.000278,"0,112295943",127529,FALSE,Santé,Extrême Droite - Réinformation,,FALSE,FALSE,|||,||||,NaN,5.703,8.554,1.446,4.164,7.764
+444,Mediabask.eus,0.000574,"0,112153018",213884,TRUE,Actu_Locale,Gauche - Extrême Gauche,2015,TRUE,TRUE,|||,||||,,,,,,
+445,Foot01.com,0.000408,"0,112004728",44330000,FALSE,Sport,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+446,Lafranceagricole.fr,0.000812,"0,111658459",1377000,TRUE,Agriculture,Extrême Droite - Réinformation,1983,TRUE,TRUE,|||,||||,NaN,5.657,4.627,6.572,7.669,4.767
+447,Legrandsoir.info,0.000413,"0,111190451",145991,TRUE,Actu,Gauche - Extrême Gauche,2008,FALSE,FALSE,|||,||||,Right Wing,4.198,7.772,2.956,6.056,5.196
+448,Franceguyane.fr,0.001247,"0,110589771",755952,TRUE,Actu_Locale,Divers,1973,TRUE,TRUE,NJJ|Fonds pour l'indépendance de la presse||,Xavier Niel||||,,,,,,
+449,Tropiquesfm.com,0,"0,110372948",37591,FALSE,Musique,Divers,,FALSE,FALSE,|||,||||,,,,,,
+451,Whatsupdoc-Lemag.fr,0.000483,"0,109993091",314639,TRUE,Santé,Divers,2012,FALSE,FALSE,|||,||||,NaN,5.551,5.238,5.748,7.227,5.131
+452,Contre-Attaque.net,0.000285,"0,109883488",853898,TRUE,Actu,Gauche - Extrême Gauche,2012,FALSE,FALSE,|||,||||,NaN,3.273,7.503,3.696,7.029,3.712
+453,Fredzone.org,0.000624,"0,109274914",911376,FALSE,Technologie,Economique - Tech - Gaming,2005,FALSE,FALSE,|||,||||,,,,,,
+454,Equinoxmagazine.fr,0.000339,"0,108831923",1046000,TRUE,Actu_Locale,Gauche - Extrême Gauche,2011,TRUE,TRUE,|||,||||,NaN,5.041,6.384,4.443,6.571,5.37
+455,Lemessager.fr,0.00035,"0,1086351",4388000,TRUE,Actu_Locale,PQR - Sport - Météo,1898,TRUE,TRUE,La Voix du Nord SA|Groupe Rossel La Voix||,Famille Hurbain|Crédit agricole|||,NaN,5.523,6.466,4.175,6.177,5.995
+456,Maxifoot.fr,0.000441,"0,108059526",47420000,FALSE,Sport,PQR - Sport - Météo,,TRUE,FALSE,|||,||||,,,,,,
+457,Mariefrance.fr,0.000748,"0,106804895",39570000,FALSE,Lifestyle,Lifestyle – Santé – TV,1944,TRUE,FALSE,|||,||||,Leisure and Health,5.491,7.467,2.983,5.247,6.726
+458,Caradisiac.com,0.000874,"0,10587525",32000000,FALSE,Transports,Economique - Tech - Gaming,,FALSE,FALSE,|||,||||,,,,,,
+459,Radioneo.org,0.000258,"0,105665115",5000,FALSE,Musique,Gauche - Extrême Gauche,,FALSE,FALSE,|||,||||,,,,,,
+460,Dailygeekshow.com,0.00039,"0,10450721",1471000,FALSE,Technologie,Economique - Tech - Gaming,2010,FALSE,FALSE,|||,||||,Leisure and Health,5.374,6.182,4.689,6.524,5.551
+461,Vududroit.com,0.00034,"0,104317582",137984,TRUE,Actu,Extrême Droite - Réinformation,2012,FALSE,FALSE,|||,||||,NaN,5.397,7.951,2.342,4.985,6.916
+462,Mirastnews.net,0.000283,"0,103708995",5000,TRUE,Actu,Extrême Droite - Réinformation,2016,FALSE,FALSE,|||,||||,,,,,,
+463,Igen.fr,0.000684,"0,103526141",1024000,FALSE,Technologie,Economique - Tech - Gaming,2012,TRUE,FALSE,|||,||||,,,,,,
+464,Lemoniteur.fr,0.001287,"0,103270482",1764000,TRUE,Actu,Economique - Tech - Gaming,1903,TRUE,FALSE,|||,||||,NaN,5.472,4.234,6.998,8.112,4.352
+465,Fflose.com,0.000635,"0,102900981",1666000,FALSE,Humour,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+466,Planimaux.com,0,"0,10277126",5000,FALSE,Animaux,Divers,,FALSE,FALSE,|||,||||,,,,,,
+467,Dailymercato.com,0.000326,"0,102581671",3474000,FALSE,Sport,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+468,Footballclubdemarseille.fr,0.000319,"0,101389992",3157000,FALSE,Sport,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+469,Auto-Moto.com,0.00133,"0,100777601",12780000,FALSE,Transports,Economique - Tech - Gaming,,FALSE,FALSE,|||,||||,NaN,5.795,6.854,3.621,5.67,6.658
+471,Woopets.fr,0.000702,"0,099369049",8492000,FALSE,Animaux,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+473,Universfreebox.com,0.000862,"0,099273649",10700000,FALSE,Technologie,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+474,Safetypromo.net,0.000451,"0,098893645",7501,FALSE,Lifestyle,Lifestyle – Santé – TV,,FALSE,FALSE,|||,||||,,,,,,
+475,Air-Cosmos.com,0.000493,"0,098709632",1502000,TRUE,Transports,Droite - Extrême Droite,1963,FALSE,FALSE,|||,||||,NaN,5.833,5.706,5.161,6.707,5.765
+476,Moyens.net,0.000258,"0,098296505",2256000,FALSE,Technologie,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+477,Linfodurable.fr,0.000408,"0,098253202",1107000,TRUE,Ecologie,Divers,2017,TRUE,TRUE,|||,||||,NaN,4.93,4.717,6.589,7.906,4.012
+478,Nantes-Revoltee.com,0.000277,"0,098153854",12414,TRUE,Actu,Gauche - Extrême Gauche,2012,FALSE,FALSE,|||,||||,,,,,,
+479,Comarketing-News.fr,0.000453,"0,098151213",101849,FALSE,Marketing,Economique - Tech - Gaming,,FALSE,FALSE,|||,||||,,,,,,
+480,Komitid.fr,0.000635,"0,09811295",128529,TRUE,Actu,Gauche - Extrême Gauche,2018,TRUE,TRUE,|||,||||,NaN,4.079,5.706,5.649,7.698,3.589
+481,Topsante.com,0.000623,"0,097929874",14190000,FALSE,Santé,Lifestyle – Santé – TV,2014,TRUE,FALSE,|||,||||,Leisure and Health,5.373,5.911,4.93,6.701,5.411
+482,Leddv.fr,0.000293,"0,097826992",23005,TRUE,Actu,Droite - Extrême Droite,1932,FALSE,FALSE,|||,||||,NaN,5.326,4.963,6.085,7.464,4.759
+483,Agefi.fr,0.001109,"0,097479054",575779,TRUE,Economie,Economique - Tech - Gaming,1911,TRUE,FALSE,Groupe L’Opinion|||,Bernard Arnault|Claude Perdriel|Famille Bettencourt|Ken Fisher|Nicolas Beytout,IT & Consumer,5.699,5.103,5.939,7.21,5.184
+484,Centre-Presse.fr,0.0003,"0,096524135",655430,TRUE,Actu_Locale,PQR - Sport - Météo,2000,TRUE,TRUE,Groupe NRCO|Groupe La Montagne||,Famille Saint-Cricq||||,PQR & Mag,4.953,4.973,6.173,7.826,4.29
+485,Tendanceouest.com,0.000679,"0,096402444",1791000,TRUE,Actu_Locale,PQR - Sport - Météo,1982,TRUE,TRUE,|||,||||,PQR & Mag,5.561,5.092,5.734,7.511,5.217
+487,Gamergen.com,0.000528,"0,095135886",2542000,FALSE,Jeux_Vidéo,Economique - Tech - Gaming,,FALSE,FALSE,|||,||||,,,,,,
+488,Connaissancedesarts.com,0.001332,"0,094972619",2676000,FALSE,Culture,Droite - Extrême Droite,,TRUE,TRUE,|||,||||,NaN,5.396,5.147,5.808,7.305,4.976
+489,Connaissancedesenergies.org,0.001125,"0,094857668",533299,TRUE,Ecologie,Economique - Tech - Gaming,2011,TRUE,TRUE,|||,||||,NaN,5.427,4.943,6.183,7.495,4.772
+491,Macg.co,0.00076,"0,09437349",1993000,FALSE,Technologie,Economique - Tech - Gaming,2012,TRUE,FALSE,|||,||||,,,,,,
+492,Welovetennis.fr,0.000317,"0,09432684",24800000,FALSE,Sport,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+493,La-Bas.org,0.00069,"0,09376664",325149,TRUE,Actu,Gauche - Extrême Gauche,2015,TRUE,TRUE,|||,||||,,,,,,
+494,Lamanchelibre.fr,0.000554,"0,093149799",2407000,TRUE,Actu_Locale,PQR - Sport - Météo,1944,TRUE,TRUE,|||,||||,NaN,5.377,5.523,5.374,7.084,5.226
+495,Touteleurope.eu,0.001951,"0,092952478",6455000,TRUE,Actu,Droite - Extrême Droite,1992,TRUE,TRUE,|||,||||,NaN,5.366,5.426,5.605,7.126,5.045
+496,Lhistoire.fr,0.000785,"0,092661807",920977,FALSE,Culture,Gauche - Extrême Gauche,,TRUE,FALSE,Groupe Perdriel|LVMH||,Bernard Arnault|Claude Perdriel|||,,,,,,
+497,Lemondedudroit.fr,0.000423,"0,092656815",198319,TRUE,Droit,Economique - Tech - Gaming,2007,FALSE,FALSE,|||,||||,,,,,,
+498,Julienchieze.com,0,"0,092574875",15887,FALSE,Jeux_Vidéo,Divers,,FALSE,FALSE,|||,||||,,,,,,
+499,Diacritik.com,0.000432,"0,092421723",153702,FALSE,Culture,Gauche - Extrême Gauche,,FALSE,FALSE,|||,||||,NaN,3.871,6.679,4.444,7.056,4.022
+501,Terrafemina.com,0.000856,"0,091763695",1122000,FALSE,Lifestyle,Lifestyle – Santé – TV,,FALSE,FALSE,|||,||||,NaN,4.716,5.606,5.487,7.333,4.428
+502,Lejournaltoulousain.fr,0.000296,"0,091689331",1316000,TRUE,Actu_Locale,PQR - Sport - Météo,1997,TRUE,TRUE,|||,||||,NaN,4.906,5.746,5.268,7.176,4.728
+503,Multinationales.org,0.000581,"0,091548319",68337,TRUE,Actu,Gauche - Extrême Gauche,2013,TRUE,TRUE,|||,||||,,,,,,
+504,Ndf.fr,0.000327,"0,091239967",56277,TRUE,Actu,Droite - Extrême Droite,2011,FALSE,FALSE,|||,||||,,,,,,
+505,Thebigwhale.io,0.000468,"0,091235368",174151,TRUE,Economie,Economique - Tech - Gaming,2022,TRUE,TRUE,|||,||||,,,,,,
+506,Projetarcadie.com,0.000445,"0,091208231",60158,TRUE,Actu,Divers,2015,TRUE,TRUE,|||,||||,,,,,,
+507,Ktotv.com,0.000464,"0,091117037",1470000,TRUE,Actu,Droite - Extrême Droite,1999,FALSE,FALSE,|||,||||,,,,,,
+508,Coins.fr,0.000332,"0,090886305",79451,TRUE,Economie,Economique - Tech - Gaming,2008,FALSE,FALSE,|||,||||,,,,,,
+509,24Matins.fr,0.000547,"0,090853815",375900,TRUE,Actu,PQR - Sport - Météo,2006,FALSE,FALSE,|||,||||,PQR & Mag,5.394,6.455,4.29,6.286,5.824
+510,Etresouverain.com,0.000312,"0,090477475",105307,TRUE,Actu,Extrême Droite - Réinformation,2019,FALSE,FALSE,|||,||||,,,,,,
+511,Xbox-Mag.net,0,"0,090365192",246398,FALSE,Jeux_Vidéo,Divers,,FALSE,FALSE,|||,||||,,,,,,
+512,Ash.tm.fr,0.000299,"0,089897874",227049,TRUE,Education,PQR - Sport - Météo,1998,TRUE,FALSE,|||,||||,,,,,,
+513,Chassepassion.net,0.000268,"0,089877624",3611000,FALSE,Sport,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,NaN,5.704,6.383,4.363,6.18,6.091
+514,Syndicalismehebdo.fr,0.000271,"0,089844763",293442,TRUE,Actu,Gauche - Extrême Gauche,2020,TRUE,TRUE,|||,||||,NaN,4.883,4.398,6.949,8.137,3.802
+515,Meretmarine.com,0.000733,"0,089276304",1872000,TRUE,Transports,Economique - Tech - Gaming,2005,TRUE,FALSE,|||,||||,NaN,5.976,4.784,6.371,7.415,5.21
+517,Generation-Nt.com,0.000991,"0,08906939",2674000,FALSE,Technologie,Economique - Tech - Gaming,2001,TRUE,FALSE,|||,||||,,,,,,
+518,Lemondeencommun.info,0.000262,"0,089069185",5000,TRUE,Actu,Gauche - Extrême Gauche,2020,FALSE,FALSE,|||,||||,,,,,,
+519,Jovanovic.com,0.000313,"0,127472442",350054,TRUE,Actu,Economique - Tech - Gaming,1998,FALSE,FALSE,|||,||||,,,,,,
+520,Revolution-Energetique.com,0.000451,"0,088948067",1759000,TRUE,Ecologie,Economique - Tech - Gaming,2018,TRUE,TRUE,|||,||||,NaN,5.123,5.685,5.268,7.025,4.978
+521,Actugaming.net,0.000441,"0,088941136",2031000,FALSE,Jeux_Vidéo,Economique - Tech - Gaming,,FALSE,FALSE,|||,||||,,,,,,
+522,Lundi.am,0.000749,"0,088582935",265360,TRUE,Actu,Gauche - Extrême Gauche,2014,FALSE,FALSE,|||,||||,Left Wing,3.617,6.906,4.316,7.203,3.764
+523,Nextplz.fr,0.000369,"0,088554534",6812000,FALSE,People,Lifestyle – Santé – TV,,FALSE,FALSE,|||,||||,,,,,,
+524,Africaintelligence.fr,0.003156,"0,088335364",415313,TRUE,Actu,Gauche - Extrême Gauche,1981,TRUE,TRUE,|||,||||,NaN,5.275,6.107,4.911,6.709,5.271
+525,Neozone.org,0.000514,"0,088323811",6090000,FALSE,Lifestyle,Economique - Tech - Gaming,,FALSE,FALSE,|||,||||,NaN,5.411,5.713,5.22,6.864,5.291
+526,Air-Journal.fr,0.001322,"0,08807744",3624000,TRUE,Transports,Economique - Tech - Gaming,2016,TRUE,FALSE,|||,||||,NaN,5.613,6.303,4.538,6.386,5.85
+527,Cultinfos.com,0,"0,088049453",81838,FALSE,People,Divers,,FALSE,FALSE,|||,||||,,,,,,
+528,Football365.fr,0.000522,"0,087607017",8933000,FALSE,Sport,PQR - Sport - Météo,,TRUE,FALSE,|||,||||,,,,,,
+529,Imerod.fr,0.000317,"0,087590998",69168,FALSE,Jeux_Vidéo,Divers,,FALSE,FALSE,|||,||||,,,,,,
+530,Begeek.fr,0.000604,"0,08744863",1059000,FALSE,Technologie,Economique - Tech - Gaming,2006,FALSE,FALSE,|||,||||,,,,,,
+531,Basketeurope.com,0.000398,"0,086702557",992721,FALSE,Sport,PQR - Sport - Météo,,TRUE,FALSE,|||,||||,,,,,,
+533,Tomsguide.fr,0.000908,"0,086675696",5614000,FALSE,Technologie,Economique - Tech - Gaming,2000,FALSE,FALSE,|||,||||,IT & Consumer,5.599,5.776,5.079,6.697,5.579
+534,Lenouveleconomiste.fr,0.00045,"0,086519755",354708,TRUE,Economie,Economique - Tech - Gaming,1976,TRUE,TRUE,|||,||||,Right Wing,5.683,5.052,5.919,7.293,5.183
+535,Ouillade.eu,0.000264,"0,086270414",667795,TRUE,Actu_Locale,Divers,2010,FALSE,FALSE,|||,||||,,,,,,
+536,Pourquoidocteur.fr,0.000578,"0,086145888",4693000,FALSE,Santé,Lifestyle – Santé – TV,2010,TRUE,FALSE,|||,||||,Leisure and Health,5.478,5.972,4.855,6.579,5.563
+537,Lebigdata.fr,0.00078,"0,086101372",1534000,FALSE,Technologie,Economique - Tech - Gaming,,FALSE,FALSE,|||,||||,NaN,5.931,5.847,4.897,6.434,6.024
+538,Corsenetinfos.corsica,0.000417,"0,086018357",1539000,TRUE,Actu_Locale,Divers,2012,TRUE,TRUE,|||,||||,PQR & Mag,4.976,6.112,4.108,6.343,5.639
+539,Autohebdo.fr,0.000567,"0,085910587",3265000,FALSE,Transports,Economique - Tech - Gaming,1976,TRUE,FALSE,|||,||||,,,,,,
+540,Lachainemeteo.com,0.001433,"0,085834979",90080000,FALSE,Météo,Lifestyle – Santé – TV,,FALSE,FALSE,|||,||||,,,,,,
+541,Paris-Luttes.info,0.000488,"0,08565409",215777,TRUE,Actu_Locale,Gauche - Extrême Gauche,2013,FALSE,FALSE,|||,||||,,,,,,
+542,Calciomio.fr,0.000327,"0,085315536",188019,FALSE,Sport,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+543,Allodocteurs.fr,0.003022,"0,085226217",4939000,FALSE,Santé,Lifestyle – Santé – TV,2005,FALSE,FALSE,|||,||||,Leisure and Health,5.577,5.399,5.6,7.089,5.228
+544,Covidemence.com,0.000282,"0,085099181",57649,TRUE,Actu,Extrême Droite - Réinformation,2020,FALSE,FALSE,|||,||||,,,,,,
+545,Radioorient.com,0.000318,"0,084755266",200525,TRUE,Actu,Gauche - Extrême Gauche,1981,FALSE,FALSE,|||,||||,,,,,,
+546,Parisfans.fr,0.000278,"0,084565226",1863000,FALSE,Sport,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+547,Revuepolitique.fr,0.000738,"0,084229408",69304,TRUE,Actu,Droite - Extrême Droite,1894,TRUE,TRUE,|||,||||,NaN,6.079,5.553,5.248,6.719,5.961
+548,Satellifacts.com,0.000418,"0,084193169",55735,TRUE,Marketing,Lifestyle – Santé – TV,1995,TRUE,FALSE,|||,||||,,,,,,
+549,Citoyens.com,0.000302,"0,084118434",771097,TRUE,Actu_Locale,Gauche - Extrême Gauche,2011,TRUE,TRUE,|||,||||,,,,,,
+550,Meteo.bzh,0.00038,"0,083908739",975118,FALSE,Météo,Extrême Droite - Réinformation,,FALSE,FALSE,|||,||||,,,,,,
+551,Revuedesdeuxmondes.fr,0.000894,"0,083822259",200753,FALSE,Culture,Gauche - Extrême Gauche,,FALSE,FALSE,|||,||||,NaN,5.801,5.28,5.607,6.968,5.524
+552,Demotivateur.fr,0.000596,"0,08359102",12680000,FALSE,Lifestyle,Lifestyle – Santé – TV,,FALSE,FALSE,|||,||||,NaN,5.312,6.291,4.517,6.406,5.609
+553,Envertetcontretous.fr,0.000311,"0,083552745",7504000,FALSE,Sport,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+554,Socialter.fr,0.000715,"0,083354403",112854,TRUE,Ecologie,Gauche - Extrême Gauche,2013,TRUE,TRUE,|||,||||,NaN,3.835,6.271,4.985,7.435,3.667
+555,Michelduchaine.com,0.000282,"0,083232956",14745,TRUE,Actu,Extrême Droite - Réinformation,2013,FALSE,FALSE,|||,||||,,,,,,
+556,Theatrum-Belli.com,0.000452,"0,082994385",245487,TRUE,Sécurité,Droite - Extrême Droite,2006,FALSE,FALSE,|||,||||,,,,,,
+557,Zayactu.org,0.00026,"0,082612659",36271,TRUE,Actu_Locale,PQR - Sport - Météo,2012,FALSE,FALSE,|||,||||,,,,,,
+559,Db-Z.com,0.000258,"0,082438241",798065,FALSE,BD,Economique - Tech - Gaming,,FALSE,FALSE,|||,||||,,,,,,
+560,Cnetfrance.fr,0.001497,"0,082363695",3180000,FALSE,Technologie,Economique - Tech - Gaming,,TRUE,FALSE,|||,||||,NaN,5.527,5.555,5.37,6.962,5.331
+561,Infos-Sport.com,0.000258,"0,082309015",40523,FALSE,Sport,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+562,Lemondemoderne.media,0.000365,"0,082182196",16636,TRUE,Actu,Extrême Droite - Réinformation,2021,FALSE,FALSE,|||,||||,NaN,4.267,7.656,3.092,6.12,5.199
+563,Fabula.org,0.000623,"0,081894695",555418,FALSE,Culture,Gauche - Extrême Gauche,,FALSE,FALSE,|||,||||,NaN,4.081,6.213,4.994,7.41,3.926
+564,Senscritique.com,0.001103,"0,081893733",30750000,FALSE,Culture,Economique - Tech - Gaming,,FALSE,FALSE,|||,||||,,,,,,
+565,Genethique.org,0.000313,"0,081891644",166395,TRUE,Santé,Droite - Extrême Droite,2000,FALSE,FALSE,|||,||||,NaN,6.285,6.409,4.07,5.736,6.868
+566,Peopleactmagazine.fr,0.000258,"0,081877026",397949,FALSE,People,Lifestyle – Santé – TV,,FALSE,FALSE,|||,||||,,,,,,
+568,Pourlascience.fr,0.00111,"0,081309667",1128000,FALSE,Sciences,Economique - Tech - Gaming,,TRUE,TRUE,|||,||||,,,,,,
+569,Juste-Milieu.fr,0.000301,"0,081230671",369149,TRUE,Actu,Droite - Extrême Droite,2021,FALSE,FALSE,|||,||||,NaN,5.6,8.344,1.776,4.396,7.505
+570,Informationnationaliste.fr,0.000329,"0,081215929",5501,TRUE,Actu,Droite - Extrême Droite,2020,FALSE,FALSE,|||,||||,,,,,,
+571,Lemagit.fr,0.000933,"0,08107871",605050,TRUE,Technologie,Economique - Tech - Gaming,2008,FALSE,FALSE,|||,||||,NaN,6.006,4.419,6.817,7.757,4.958
+572,Befoot.net,0.000275,"0,080808624",177035,FALSE,Sport,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+573,Vitisphere.com,0.00072,"0,080376683",847820,TRUE,Agriculture,Divers,2000,TRUE,FALSE,|||,||||,NaN,5.909,4.082,7.188,8.05,4.683
+574,Rue89Bordeaux.com,0.000442,"0,08032388",217955,TRUE,Actu_Locale,Gauche - Extrême Gauche,2014,TRUE,TRUE,|||,||||,Left Wing,3.719,6.277,4.923,7.492,3.618
+575,Paristeam.fr,0.000319,"0,079990526",2187000,FALSE,Sport,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+576,Lardennais.fr,0.000905,"0,079430233",2270000,TRUE,Actu_Locale,PQR - Sport - Météo,1989,TRUE,TRUE,|||,||||,NaN,5.497,5.464,5.519,7.32,5.172
+577,Jforum.fr,0.000311,"0,078944402",465203,TRUE,Actu,Droite - Extrême Droite,2008,FALSE,FALSE,|||,||||,,,,,,
+578,Chevallier.biz,0.000272,"0,078381683",5000,TRUE,Economie,Extrême Droite - Réinformation,2009,FALSE,FALSE,|||,||||,,,,,,
+579,Automobile-Magazine.fr,0.000731,"0,078256813",12790000,FALSE,Transports,Economique - Tech - Gaming,,TRUE,FALSE,|||,||||,NaN,5.61,6.656,3.975,5.938,6.258
+580,Maritima.info,0.000394,"0,07809074",499840,TRUE,Actu_Locale,PQR - Sport - Météo,2010,FALSE,FALSE,|||,||||,,,,,,
+581,Lecourrierdelatlas.com,0.000393,"0,077741416",137735,TRUE,Actu,Droite - Extrême Droite,2007,FALSE,FALSE,|||,||||,NaN,4.729,6.091,4.935,6.988,4.738
+582,Doingbuzz.com,0.000258,"0,077564338",389110,FALSE,Lifestyle,Economique - Tech - Gaming,,FALSE,FALSE,|||,||||,,,,,,
+583,Tourmag.com,0.000533,"0,077167246",1446000,FALSE,Tourisme,Divers,,TRUE,FALSE,|||,||||,NaN,5.881,4.738,6.406,7.575,5.048
+584,Relais-Info.fr,0.000261,"0,076578996",39903,TRUE,Actu,Extrême Droite - Réinformation,2021,FALSE,FALSE,|||,||||,NaN,5.63,8.598,1.375,4.095,7.744
+585,Leblogtvnews.com,0.00028,"0,076406571",1437000,FALSE,TV,Lifestyle – Santé – TV,,FALSE,FALSE,|||,||||,,,,,,
+586,Consollection.com,0.000258,"0,075977398",34395,FALSE,Jeux_Vidéo,Droite - Extrême Droite,,FALSE,FALSE,|||,||||,,,,,,
+587,Quinzemondial.com,0.000477,"0,075925239",5176000,FALSE,Sport,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+588,Millenium.org,0.001969,"0,075433657",29060000,FALSE,Jeux_Vidéo,Economique - Tech - Gaming,,FALSE,FALSE,|||,||||,,,,,,
+589,Iletaitunepub.fr,0.000316,"0,075228007",1194000,FALSE,Lifestyle,Lifestyle – Santé – TV,,FALSE,FALSE,|||,||||,NaN,5.371,7.39,3.074,5.462,6.507
+590,Faire-Face.fr,0.000329,"0,075135483",184279,FALSE,Santé,Lifestyle – Santé – TV,,FALSE,FALSE,|||,||||,NaN,5.324,4.884,6.275,7.631,4.598
+591,News365.fr,0.000258,"0,074955616",5000,FALSE,People,Divers,,FALSE,FALSE,|||,||||,,,,,,
+592,Lobservateur.fr,0.000297,"0,074674521",435879,TRUE,Actu_Locale,Lifestyle – Santé – TV,1834,TRUE,TRUE,|||,||||,NaN,4.99,5.806,5.074,7.153,4.944
+593,Lanticapitaliste.org,0.000477,"0,074502285",116989,TRUE,Actu,Gauche - Extrême Gauche,2009,FALSE,FALSE,|||,||||,,,,,,
+595,Pokemontrash.com,0.000318,"0,074447583",761086,FALSE,BD,Economique - Tech - Gaming,,FALSE,FALSE,|||,||||,,,,,,
+596,Revuecommune.fr,0.000272,"0,07426604",5314,FALSE,Culture,Gauche - Extrême Gauche,,FALSE,FALSE,|||,||||,,,,,,
+597,Chassons.com,0.000287,"0,074024348",1110000,FALSE,Sport,PQR - Sport - Météo,,TRUE,FALSE,|||,||||,NaN,5.505,5.773,5.123,6.825,5.433
+598,Manga-News.com,0.000362,"0,073864612",3236000,FALSE,BD,Divers,,FALSE,FALSE,|||,||||,,,,,,
+599,Observatoiredumensonge.com,0.000262,"0,073752829",64470,TRUE,Actu,Droite - Extrême Droite,2013,FALSE,FALSE,|||,||||,,,,,,
+600,Psychologies.com,0.001318,"0,073338617",8168000,FALSE,Santé,Lifestyle – Santé – TV,1970,TRUE,FALSE,|||,||||,,,,,,
+601,Livreshebdo.fr,0.001311,"0,073170105",920239,FALSE,Culture,Divers,,TRUE,FALSE,|||,||||,NaN,5.161,5.335,5.734,7.323,4.725
+602,Lactucitoyenne.fr,0.000272,"0,072701275",447004,TRUE,Actu,Extrême Droite - Réinformation,2020,FALSE,FALSE,|||,||||,NaN,5.413,7.86,2.491,5.086,6.824
+604,Footmarseille.com,0.000321,"0,072102983",6353000,FALSE,Sport,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+605,Olyrix.com,0.00031,"0,071678433",201376,FALSE,Culture,Droite - Extrême Droite,,FALSE,FALSE,|||,||||,,,,,,
+606,Aulnaycap.com,0.000268,"0,071440441",54966,TRUE,Actu_Locale,Droite - Extrême Droite,2012,FALSE,FALSE,|||,||||,,,,,,
+607,Village-Justice.com,0.000937,"0,071336017",4168000,TRUE,Droit,Economique - Tech - Gaming,1997,FALSE,FALSE,|||,||||,NaN,5.462,5.427,5.597,7.165,5.098
+608,Jhm.fr,0.000403,"0,070997848",1207000,TRUE,Actu_Locale,Droite - Extrême Droite,1944,TRUE,TRUE,Groupe EBRA|||,Crédit Mutuel||||,NaN,5.693,4.912,6.171,7.515,5.03
+609,Purebreak.com,0.000499,"0,0699775",7986000,FALSE,Lifestyle,Lifestyle – Santé – TV,,TRUE,FALSE,|||,||||,,,,,,
+610,Jeune-Nation.com,0.000287,"0,06947928",43444,TRUE,Actu,Extrême Droite - Réinformation,1958,FALSE,FALSE,|||,||||,Identitarian,5.768,8.647,1.415,3.939,7.996
+611,Saphirnews.com,0.000393,"0,069365695",214991,TRUE,Actu,Gauche - Extrême Gauche,2002,TRUE,TRUE,|||,||||,,,,,,
+612,Football.fr,0.000465,"0,069219019",2430000,FALSE,Sport,PQR - Sport - Météo,,TRUE,FALSE,|||,||||,,,,,,
+614,Santemagazine.fr,0.00095,"0,068811711",20260000,FALSE,Santé,Lifestyle – Santé – TV,1976,TRUE,FALSE,|||,||||,Leisure and Health,5.301,6.091,4.746,6.616,5.437
+615,Armenews.com,0.000366,"0,068674387",799340,TRUE,Actu,Droite - Extrême Droite,1999,TRUE,TRUE,|||,||||,,,,,,
+616,Al-Kanz.org,0.0003,"0,06858694",1199000,TRUE,Consommation,Gauche - Extrême Gauche,2008,FALSE,FALSE,|||,||||,,,,,,
+617,Lerubicon.org,0.000637,"0,068269442",119540,TRUE,Actu,Droite - Extrême Droite,2021,FALSE,FALSE,|||,||||,,,,,,
+618,Grazia.fr,0.00127,"0,06815227",12050000,FALSE,Lifestyle,Lifestyle – Santé – TV,1938,TRUE,FALSE,|||,||||,,,,,,
+619,Programme.tv,0.000685,"0,068077466",36440000,FALSE,TV,Lifestyle – Santé – TV,2004,TRUE,FALSE,|||,||||,,,,,,
+620,Hitek.fr,0.000526,"0,06771839",10960000,FALSE,Technologie,Divers,2013,FALSE,FALSE,|||,||||,,,,,,
+622,Cqfd-Journal.org,0.000414,"0,06716086",18940,TRUE,Actu,Gauche - Extrême Gauche,2003,FALSE,FALSE,|||,||||,,,,,,
+623,Ukrinform.fr,0.000315,"0,067074992",228664,TRUE,Actu,Divers,1918,FALSE,FALSE,|||,||||,,,,,,
+624,Lesonunique.com,0.000258,"0,06700044",50044,FALSE,Musique,Divers,,FALSE,FALSE,|||,||||,,,,,,
+625,Dayfr.com,0.000353,"0,066933191",710755,TRUE,Actu,Extrême Droite - Réinformation,2021,FALSE,FALSE,|||,||||,,,,,,
+626,Rojinfo.com,0.000301,"0,066692916",5181,TRUE,Actu,Gauche - Extrême Gauche,2017,FALSE,FALSE,|||,||||,,,,,,
+627,Lesviolets.com,0.000808,"0,066409574",3635000,FALSE,Sport,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+629,Goodplanet.info,0.000352,"0,065939408",278797,TRUE,Ecologie,Economique - Tech - Gaming,2005,FALSE,FALSE,|||,||||,NaN,4.794,4.97,6.335,7.782,4.003
+630,Notretemps.com,0.000721,"0,065860567",14810000,FALSE,Lifestyle,Lifestyle – Santé – TV,1968,TRUE,TRUE,Bayard|||,Les Augustins de l’Assomption||||,IT & Consumer,5.465,5.109,5.956,7.314,4.945
+631,Caminteresse.fr,0.00097,"0,065637675",24170000,FALSE,Sciences,Lifestyle – Santé – TV,1981,TRUE,FALSE,|||,||||,,,,,,
+632,Cieletespace.fr,0.000484,"0,065530381",292187,FALSE,Sciences,Lifestyle – Santé – TV,,TRUE,TRUE,|||,||||,,,,,,
+633,Cultureaddict.fr,0.000258,"0,065325752",5000,FALSE,Musique,Economique - Tech - Gaming,,FALSE,FALSE,|||,||||,,,,,,
+634,Aisnenouvelle.fr,0.000706,"0,065306872",1535000,TRUE,Actu_Locale,PQR - Sport - Météo,1944,TRUE,TRUE,La Voix du Nord SA|Groupe Rossel La Voix||,Famille Hurbain|Crédit agricole|||,,,,,,
+635,Divulgation.fr,0.000276,"0,064635425",14215,TRUE,Actu,Extrême Droite - Réinformation,2020,FALSE,FALSE,|||,||||,,,,,,
+637,Citizen-Light.fr,0.000349,"0,06396635",13724,TRUE,Actu,Extrême Droite - Réinformation,2022,FALSE,FALSE,|||,||||,,,,,,
+638,Pokebip.com,0.000394,"0,063850385",5147000,FALSE,BD,Economique - Tech - Gaming,,FALSE,FALSE,|||,||||,,,,,,
+639,Consoglobe.com,0.000818,"0,063760496",1232000,TRUE,Consommation,Economique - Tech - Gaming,2006,FALSE,FALSE,|||,||||,NaN,4.726,6.229,4.775,6.893,4.796
+640,Girondins4Ever.com,0.000327,"0,063752361",6379000,FALSE,Sport,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+641,Courrierdesbalkans.fr,0.000707,"0,063633684",112955,TRUE,Actu,Gauche - Extrême Gauche,1998,TRUE,TRUE,|||,||||,,,,,,
+642,Lebonbon.fr,0.000472,"0,063339437",3948000,FALSE,Lifestyle,Lifestyle – Santé – TV,2009,FALSE,FALSE,|||,||||,Leisure and Health,5.428,5.725,5.196,6.84,5.322
+643,Histoiredupsg.fr,0.000275,"0,062938592",76886,FALSE,Sport,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+644,Journalducm.com,0.000265,"0,062900821",197183,FALSE,Marketing,Economique - Tech - Gaming,,FALSE,FALSE,|||,||||,,,,,,
+645,Lesnouvellesnews.fr,0.000346,"0,062665763",85086,TRUE,Actu,Gauche - Extrême Gauche,2009,TRUE,TRUE,|||,||||,,,,,,
+646,Silicon.fr,0.000817,"0,062559344",456044,TRUE,Technologie,Economique - Tech - Gaming,2000,FALSE,FALSE,|||,||||,IT & Consumer,6.032,4.395,6.718,7.676,5.101
+647,Revueconflits.com,0.000641,"0,062557221",442456,TRUE,Actu,Droite - Extrême Droite,2014,FALSE,FALSE,|||,||||,NaN,6.037,6.144,4.496,6.164,6.391
+648,Nice-Provence.info,0.000522,"0,062402073",27925,TRUE,Actu_Locale,Extrême Droite - Réinformation,2014,FALSE,FALSE,|||,||||,,,,,,
+649,Zataz.com,0.000502,"0,062296399",295915,TRUE,Technologie,Economique - Tech - Gaming,1999,FALSE,FALSE,|||,||||,,,,,,
+650,Rugby-Addict.com,0.000382,"0,062206782",220878,FALSE,Sport,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+651,Actu-Mag.fr,0.000261,"0,062058118",12986,TRUE,Actu,Lifestyle – Santé – TV,2011,FALSE,FALSE,|||,||||,,,,,,
+652,E-Marketing.fr,0.000344,"0,061773892",611522,TRUE,Marketing,Economique - Tech - Gaming,1999,TRUE,FALSE,|||,||||,,,,,,
+653,By-Jipp.blogspot.com,0.000281,"0,061602339",6755,TRUE,Actu,Extrême Droite - Réinformation,2000,FALSE,FALSE,|||,||||,,,,,,
+654,Michelonfray.com,0.00031,"0,061600828",128945,TRUE,Actu,Extrême Droite - Réinformation,2014,FALSE,FALSE,|||,||||,,,,,,
+655,A-Droite-Fierement.fr,0.000263,"0,061580647",44495,TRUE,Actu,Droite - Extrême Droite,2006,FALSE,FALSE,|||,||||,,,,,,
+656,Revue-Elements.com,0.000381,"0,061485366",163902,TRUE,Actu,Droite - Extrême Droite,1968,TRUE,TRUE,|||,||||,,,,,,
+657,Intelligenceonline.fr,0.003295,"0,060886654",323662,TRUE,Sécurité,Divers,1980,TRUE,TRUE,|||,||||,,,,,,
+658,Lequotidiendusport.fr,0.000599,"0,060672584",184913,FALSE,Sport,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+660,Citoyens-Et-Francais.fr,0.000268,"0,060406369",10229,TRUE,Actu,Droite - Extrême Droite,2012,FALSE,FALSE,|||,||||,,,,,,
+661,Maire-Info.com,0.000403,"0,060381225",194650,TRUE,Administration,Extrême Droite - Réinformation,2012,TRUE,TRUE,|||,||||,NaN,5.442,4.729,6.301,7.778,4.707
+663,Legavox.fr,0.000423,"0,060001125",542001,TRUE,Droit,Economique - Tech - Gaming,2008,FALSE,FALSE,|||,||||,,,,,,
+664,Lanceurdalerte.info,0.00029,"0,05977863",5000,TRUE,Actu,Economique - Tech - Gaming,2019,FALSE,FALSE,|||,||||,,,,,,
+665,Journaldujapon.com,0.000287,"0,059681494",295973,FALSE,BD,Divers,,FALSE,FALSE,|||,||||,,,,,,
+666,Lesrepliques.com,0.000266,"0,05895947",5000,TRUE,Actu,Gauche - Extrême Gauche,2016,FALSE,FALSE,|||,||||,,,,,,
+667,Courrierdeuropecentrale.fr,0.000453,"0,058899662",18986,TRUE,Actu,Gauche - Extrême Gauche,2009,TRUE,TRUE,|||,||||,,,,,,
+669,Lnc.nc,0.000474,"0,058643105",230996,TRUE,Actu_Locale,Droite - Extrême Droite,1971,TRUE,TRUE,|||,||||,,,,,,
+671,Wedemain.fr,0.000708,"0,058502687",360439,TRUE,Ecologie,Economique - Tech - Gaming,2012,TRUE,TRUE,|||,||||,NaN,5.04,4.967,6.323,7.667,4.26
+672,Marceau2020.info,0.00026,"0,058425206",5000,TRUE,Santé,Extrême Droite - Réinformation,2021,FALSE,FALSE,|||,||||,,,,,,
+673,Petitbleu.fr,0.000809,"0,058362424",1081000,TRUE,Actu_Locale,PQR - Sport - Météo,1914,TRUE,TRUE,Groupe La Dépêche|||,Famille Baylet||||,,,,,,
+674,Blog-Nouvelles-Technologies.fr,0.000508,"0,05800178",114184,FALSE,Technologie,Economique - Tech - Gaming,,FALSE,FALSE,|||,||||,,,,,,
+675,Iphonesoft.fr,0.000533,"0,057907118",274740,FALSE,Technologie,Economique - Tech - Gaming,,FALSE,FALSE,|||,||||,,,,,,
+677,Herodote.net,0.00084,"0,05747128",2138000,FALSE,Culture,Droite - Extrême Droite,,TRUE,FALSE,|||,||||,NaN,5.233,7.009,3.547,5.808,6.088
+678,Alalumieredunouveaumonde.blogspot.com,0.000258,"0,057435066",21942,TRUE,Actu,Economique - Tech - Gaming,2012,FALSE,FALSE,|||,||||,,,,,,
+679,Sortirdunucleaire.org,0.000479,"0,057392121",47372,TRUE,Ecologie,Gauche - Extrême Gauche,1998,FALSE,FALSE,|||,||||,,,,,,
+680,Carenews.com,0.000363,"0,057384361",189487,TRUE,Actu,Economique - Tech - Gaming,2012,FALSE,FALSE,|||,||||,NaN,5.428,4.133,7.203,8.068,4.226
+681,Rebellyon.info,0.000312,"0,057377988",119031,TRUE,Actu_Locale,Gauche - Extrême Gauche,2004,FALSE,FALSE,|||,||||,,,,,,
+682,Infoclimat.fr,0.003518,"0,05723372",6438000,FALSE,Météo,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+683,Terre-Net.fr,0.000907,"0,057193043",2633000,TRUE,Agriculture,Divers,1997,TRUE,TRUE,|||,||||,NaN,5.679,4.533,6.646,7.772,4.758
+684,Passeportsante.net,0.001504,"0,057072112",23750000,FALSE,Santé,Lifestyle – Santé – TV,,FALSE,FALSE,|||,||||,,,,,,
+685,Autojournal.fr,0.000705,"0,05705359",11380000,FALSE,Transports,Lifestyle – Santé – TV,,TRUE,FALSE,|||,||||,,,,,,
+686,Newsweed.fr,0.000276,"0,056878645",183672,TRUE,Actu,Lifestyle – Santé – TV,2015,FALSE,FALSE,|||,||||,,,,,,
+687,Infoequitable.org,0.000273,"0,056831513",10047,TRUE,Actu,Droite - Extrême Droite,2016,FALSE,FALSE,|||,||||,,,,,,
+688,Infos-Dijon.com,0.000371,"0,056786738",650501,TRUE,Actu_Locale,PQR - Sport - Météo,2010,FALSE,FALSE,|||,||||,NaN,5.397,4.605,6.541,7.776,4.57
+689,Actuel-Rh.fr,0.000268,"0,056604446",20033,TRUE,Marketing,Lifestyle – Santé – TV,2007,TRUE,FALSE,|||,||||,,,,,,
+690,Toutelatele.com,0.000452,"0,056109053",16450000,FALSE,TV,Lifestyle – Santé – TV,1998,FALSE,FALSE,|||,||||,NaN,5.8,6.548,4.164,5.923,6.335
+691,Lafuria.fr,0.000265,"0,056108124",38204,TRUE,Humour,Droite - Extrême Droite,2023,FALSE,FALSE,|||,||||,,,,,,
+692,Batiactu.com,0.000525,"0,05609032",1820000,TRUE,Actu,Economique - Tech - Gaming,2001,TRUE,TRUE,|||,||||,NaN,5.582,4.603,6.604,7.736,4.678
+693,Movierama.fr,0.000264,"0,055961105",81636,FALSE,Culture,Droite - Extrême Droite,,FALSE,FALSE,|||,||||,,,,,,
+694,Lemonde.co.il,0.00026,"0,055926188",141800,TRUE,Actu,Droite - Extrême Droite,2005,FALSE,FALSE,|||,||||,,,,,,
+695,Lopinion.com,0.000498,"0,055921234",635559,TRUE,Actu_Locale,PQR - Sport - Météo,2013,TRUE,TRUE,|||,||||,NaN,5.091,5.03,6.1,7.689,4.475
+696,Lemondedelenergie.com,0.000385,"0,055842817",54595,TRUE,Ecologie,Economique - Tech - Gaming,2014,FALSE,FALSE,|||,||||,NaN,5.8,5.122,5.845,7.175,5.354
+697,Compta-Online.com,0.00026,"0,055472603",2114000,FALSE,Marketing,Economique - Tech - Gaming,,TRUE,FALSE,|||,||||,,,,,,
+698,Toutelaculture.com,0.000528,"0,055284918",171517,FALSE,Culture,Gauche - Extrême Gauche,,TRUE,TRUE,|||,||||,,,,,,
+699,Itsocial.fr,0.000266,"0,055114873",62158,TRUE,Technologie,Economique - Tech - Gaming,2013,FALSE,FALSE,|||,||||,,,,,,
+700,Parolesdhistoire.fr,0.000275,"0,055082907",28556,FALSE,Culture,Gauche - Extrême Gauche,,FALSE,FALSE,|||,||||,,,,,,
+701,Dexerto.fr,0.000287,"0,054975178",7037000,FALSE,Jeux_Vidéo,Economique - Tech - Gaming,,FALSE,FALSE,|||,||||,,,,,,
+702,Geopolintel.fr,0.000306,"0,054832006",9595,TRUE,Actu,Extrême Droite - Réinformation,2009,FALSE,FALSE,|||,||||,,,,,,
+703,Laregledujeu.org,0.00031,"0,054685782",128925,TRUE,Actu,Gauche - Extrême Gauche,1990,FALSE,FALSE,|||,||||,NaN,5.651,4.998,6.043,7.233,5.114
+705,Jeuxvideo-Live.com,0.000519,"0,054526391",102619,FALSE,Jeux_Vidéo,Divers,,FALSE,FALSE,|||,||||,,,,,,
+706,Le11Hdf.fr,0.000443,"0,05415462",1923000,FALSE,Sport,PQR - Sport - Météo,,TRUE,FALSE,|||,||||,,,,,,
+707,Paddock-Gp.com,0.000383,"0,053982976",9040000,FALSE,Sport,Droite - Extrême Droite,,FALSE,FALSE,|||,||||,,,,,,
+708,Club-Stephenking.fr,0.000277,"0,053862512",31209,FALSE,Culture,Economique - Tech - Gaming,,FALSE,FALSE,|||,||||,,,,,,
+709,Pausefoot.com,0.000258,"0,053649007",18685,FALSE,Sport,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+710,Lesfrancais.press,0.000291,"0,053512415",285388,TRUE,Actu,Divers,2017,TRUE,TRUE,|||,||||,NaN,5.278,5.345,5.769,7.361,4.795
+711,Limpertinentmedia.com,0.000285,"0,053453723",26776,TRUE,Actu,Extrême Droite - Réinformation,2020,FALSE,FALSE,|||,||||,,,,,,
+712,La-Verite-Vous-Rendra-Libres.org,0.000275,"0,053424739",7775,TRUE,Actu,Extrême Droite - Réinformation,2021,FALSE,FALSE,|||,||||,,,,,,
+713,Info-Chalon.com,0.000337,"0,053302015",838944,TRUE,Actu_Locale,Droite - Extrême Droite,2009,TRUE,TRUE,|||,||||,NaN,5.411,5.879,5.088,6.797,5.404
+714,Nordicmag.info,0.000258,"0,053256688",1212000,FALSE,Sport,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+715,Achatpublic.info,0,"0,053244848",10963,TRUE,Administration,Divers,2003,TRUE,FALSE,|||,||||,,,,,,
+716,Onvoitout.fr,0,"0,053199053",37072,FALSE,People,Divers,,FALSE,FALSE,|||,||||,,,,,,
+717,Dcplanet.fr,0.000439,"0,053167543",151603,FALSE,BD,Economique - Tech - Gaming,,FALSE,FALSE,|||,||||,,,,,,
+718,Lechasseurfrancais.com,0.000274,"0,053166214",1419000,FALSE,Animaux,Lifestyle – Santé – TV,1885,TRUE,FALSE,|||,||||,,,,,,
+719,F1Only.fr,0,"0,053151713",2576000,FALSE,Sport,Divers,,FALSE,FALSE,|||,||||,,,,,,
+720,Troiscouleurs.fr,0.000296,"0,053122212",153543,FALSE,Culture,Gauche - Extrême Gauche,,FALSE,FALSE,|||,||||,,,,,,
+722,Meteo-Villes.com,0.000937,"0,052646047",2279000,FALSE,Météo,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+724,Larevuedudigital.com,0.00037,"0,052394362",102799,TRUE,Technologie,Economique - Tech - Gaming,2013,FALSE,FALSE,|||,||||,,,,,,
+725,Lechotouristique.com,0.001176,"0,052238494",938374,TRUE,Tourisme,Economique - Tech - Gaming,1934,FALSE,FALSE,|||,||||,NaN,5.57,5.263,5.726,7.118,5.183
+726,Frenchweb.fr,0.000526,"0,052187842",253224,TRUE,Technologie,Economique - Tech - Gaming,2006,FALSE,FALSE,|||,||||,IT & Consumer,6.005,4.421,6.772,7.688,5.036
+727,Iatranshumanisme.com,0.000325,"0,051954619",44716,TRUE,Technologie,Economique - Tech - Gaming,2015,FALSE,FALSE,|||,||||,,,,,,
+728,Boursedirect.fr,0.000325,"0,051871607",9101000,TRUE,Economie,Economique - Tech - Gaming,1996,FALSE,FALSE,|||,||||,,,,,,
+729,Bitcoin.fr,0.000565,"0,051839387",231634,FALSE,Technologie,Economique - Tech - Gaming,,FALSE,FALSE,|||,||||,,,,,,
+730,Legossip.net,0.000281,"0,051668221",537215,FALSE,People,Lifestyle – Santé – TV,,FALSE,FALSE,|||,||||,,,,,,
+731,Editoweb.eu,0.000261,"0,05161345",20445,TRUE,Actu,Divers,2004,FALSE,FALSE,|||,||||,,,,,,
+732,Macron.watch,0.000258,"0,051488214",20135,TRUE,Actu,Divers,2017,FALSE,FALSE,|||,||||,,,,,,
+733,France-Catholique.fr,0.000313,"0,051361577",170488,TRUE,Actu,Droite - Extrême Droite,1924,FALSE,FALSE,Bolloré|||,Vincent Bolloré||||,,,,,,
+734,Lerevenu.com,0.000536,"0,05123202",1744000,TRUE,Economie,Economique - Tech - Gaming,1968,TRUE,FALSE,|||,||||,,,,,,
+735,Lequotidiendupharmacien.fr,0.00056,"0,05114181",238048,TRUE,Santé,Extrême Droite - Réinformation,1985,TRUE,FALSE,|||,||||,,,,,,
+736,Directvelo.com,0.000379,"0,051127657",6075000,FALSE,Sport,PQR - Sport - Météo,,TRUE,FALSE,|||,||||,,,,,,
+738,Medisite.fr,0.000569,"0,050767333",8534000,FALSE,Santé,Lifestyle – Santé – TV,,TRUE,FALSE,|||,||||,NaN,5.27,6.25,4.576,6.505,5.494
+739,Tntv.pf,0.000264,"0,050643656",140654,TRUE,Actu_Locale,Gauche - Extrême Gauche,2000,FALSE,FALSE,|||,||||,,,,,,
+740,Balancetonantisemite.com,0.000261,"0,050506187",9875,TRUE,Actu,Droite - Extrême Droite,2019,FALSE,FALSE,|||,||||,,,,,,
+741,Histoireetsociete.com,0.000311,"0,050344617",67415,TRUE,Actu,Droite - Extrême Droite,2011,FALSE,FALSE,|||,||||,,,,,,
+742,Radioscoop.com,0.000505,"0,050209344",2129000,TRUE,Actu_Locale,Lifestyle – Santé – TV,1982,FALSE,FALSE,|||,||||,,,,,,
+743,Corsicainfurmazione.org,0.000258,"0,050196952",16922,TRUE,Actu_Locale,Divers,1999,FALSE,FALSE,|||,||||,,,,,,
+744,Kpoplife.fr,0,"0,050048667",75766,FALSE,Musique,Divers,,FALSE,FALSE,|||,||||,,,,,,
+745,Serieously.com,0.000265,"0,04990924",19720000,FALSE,Culture,Lifestyle – Santé – TV,,TRUE,FALSE,|||,||||,,,,,,
+746,Telos-Eu.com,0.000868,"0,049859224",208385,TRUE,Actu,Gauche - Extrême Gauche,2005,FALSE,FALSE,|||,||||,NaN,5.625,4.447,6.772,7.806,4.661
+747,Starmag.com,0.000293,"0,049842015",1274000,FALSE,People,Lifestyle – Santé – TV,,TRUE,FALSE,|||,||||,,,,,,
+748,Abcdrduson.com,0.000358,"0,049828101",122769,FALSE,Culture,Gauche - Extrême Gauche,,FALSE,FALSE,|||,||||,,,,,,
+749,Goldengeek.net,0.000348,"0,049579441",35615,FALSE,Jeux_Vidéo,Divers,,FALSE,FALSE,|||,||||,,,,,,
+750,Viaatv.tv,0.000271,"0,049269047",228304,TRUE,Actu_Locale,Economique - Tech - Gaming,1993,FALSE,FALSE,|||,||||,,,,,,
+751,Wikiagri.fr,0.00028,"0,049227696",66671,TRUE,Agriculture,Gauche - Extrême Gauche,2011,FALSE,FALSE,|||,||||,,,,,,
+752,Palestine-Solidarite.fr,0.000263,"0,04922524",5000,TRUE,Actu,Gauche - Extrême Gauche,2020,FALSE,FALSE,|||,||||,,,,,,
+753,Lerepairedesmotards.com,0.0005,"0,048987585",4963000,FALSE,Transports,Economique - Tech - Gaming,,FALSE,FALSE,|||,||||,,,,,,
+754,01Topinfo.fr,0.000258,"0,048968761",5000,TRUE,Actu,PQR - Sport - Météo,2021,FALSE,FALSE,|||,||||,,,,,,
+755,Thegamemasters.fr,0,"0,048830865",11310,FALSE,Jeux_Vidéo,Divers,,FALSE,FALSE,|||,||||,,,,,,
+756,Frenchmorning.com,0.000401,"0,048591563",461586,FALSE,Lifestyle,Economique - Tech - Gaming,,FALSE,FALSE,|||,||||,,,,,,
+757,Influencia.net,0.00034,"0,048272126",95550,TRUE,Marketing,Economique - Tech - Gaming,2004,FALSE,FALSE,|||,||||,,,,,,
+758,Peuple-Vert.fr,0.000278,"0,048253887",6310000,FALSE,Sport,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+759,C-K-Jpopnews.fr,0.000258,"0,048192697",8048,FALSE,Musique,Lifestyle – Santé – TV,,FALSE,FALSE,|||,||||,,,,,,
+761,Ksociety.fr,0.000258,"0,047854004",22407,FALSE,Lifestyle,Lifestyle – Santé – TV,,FALSE,FALSE,|||,||||,,,,,,
+762,Lejournaldesarts.fr,0.000533,"0,047794302",240454,FALSE,Culture,Divers,,TRUE,TRUE,|||,||||,,,,,,
+763,Ville-Rail-Transports.com,0.001212,"0,047575541",217529,TRUE,Transports,Divers,2002,TRUE,FALSE,|||,||||,,,,,,
+765,Areion24.news,0.000451,"0,047293446",252583,TRUE,Actu,Droite - Extrême Droite,2003,FALSE,FALSE,|||,||||,,,,,,
+766,Lejournaldesentreprises.com,0.000382,"0,047253479",314893,TRUE,Economie,Economique - Tech - Gaming,2003,TRUE,TRUE,Groupe Télégramme|||,Édouard Coudurier||||,IT & Consumer,6.069,3.7,7.627,8.24,4.614
+767,Lequotidiendelart.com,0.000549,"0,047158867",185709,FALSE,Culture,Gauche - Extrême Gauche,,TRUE,FALSE,|||,||||,,,,,,
+768,Elishean777.com,0.0003,"0,043156213",198774,TRUE,Actu,Extrême Droite - Réinformation,2008,FALSE,FALSE,|||,||||,,,,,,
+769,Herault-Tribune.com,0.000259,"0,046856424",1341000,TRUE,Actu_Locale,PQR - Sport - Météo,1973,TRUE,TRUE,|||,||||,PQR & Mag,5.102,5.714,5.266,7.067,5.002
+770,Veridik.fr,0.000266,"0,046816417",35422,TRUE,Actu_Locale,PQR - Sport - Météo,2019,TRUE,FALSE,|||,||||,,,,,,
+771,Myjournal.fr,0.000265,"0,046518944",24707,TRUE,Actu_Locale,PQR - Sport - Météo,2016,FALSE,FALSE,|||,||||,,,,,,
+772,Minurne.org,0.000271,"0,046370272",43796,TRUE,Actu,Droite - Extrême Droite,2011,FALSE,FALSE,|||,||||,,,,,,
+773,Xochipelli.fr,0.000326,"0,046237437",26244,TRUE,Santé,Extrême Droite - Réinformation,2015,FALSE,FALSE,|||,||||,,,,,,
+775,Business-Cool.com,0.000301,"0,045877664",571247,TRUE,Economie,Economique - Tech - Gaming,2016,FALSE,FALSE,|||,||||,,,,,,
+776,Urban-Radio.com,0.000258,"0,045871762",5000,FALSE,Culture,Gauche - Extrême Gauche,,FALSE,FALSE,|||,||||,,,,,,
+777,Kulturegeek.fr,0.000275,"0,115598423",335050,FALSE,Technologie,Economique - Tech - Gaming,2012,FALSE,FALSE,|||,||||,,,,,,
+778,Piflemag.fr,0.000264,"0,045550053",,FALSE,Education,PQR - Sport - Météo,,,,|||,||||,,,,,,
+779,Roxarmy.com,0.000317,"0,045481062",0,FALSE,Technologie,Divers,,FALSE,FALSE,|||,||||,,,,,,
+780,Ulyces.co,0.000434,"0,045454787",13601,FALSE,People,Divers,,FALSE,FALSE,|||,||||,,,,,,
+782,Nintendo-Difference.com,0.000258,"0,04544141",152042,FALSE,Jeux_Vidéo,Economique - Tech - Gaming,,FALSE,FALSE,|||,||||,,,,,,
+783,Meteo-Paris.com,0.000587,"0,045433524",103492,FALSE,Météo,PQR - Sport - Météo,,FALSE,FALSE,|||,||||,,,,,,
+784,Cerveauetpsycho.fr,0.000561,"0,04520755",5608000,FALSE,Santé,Lifestyle – Santé – TV,,TRUE,TRUE,|||,||||,,,,,,
+785,Cosmopolitan.fr,0.001038,"0,045064734",412618,FALSE,Lifestyle,Lifestyle – Santé – TV,1973,TRUE,FALSE,|||,||||,,,,,,
+786,Vigilance-Pandemie.info,0.000265,"0,045040919",14160000,TRUE,Santé,Extrême Droite - Réinformation,2021,FALSE,FALSE,|||,||||,,,,,,
+14498,Luniversims.fr,0,"0,040536592",20586,FALSE,Jeux_Vidéo,Divers,,FALSE,FALSE,|||,||||,,,,,,
+20150,Boualemetsteph.fr,0.000258,"0,054636344",428238,FALSE,Education,Divers,,FALSE,FALSE,|||,||||,,,,,,
+31391,Decideurs-Magazine.com,0.000323,"0,062370351",62419,TRUE,Economie,Economique - Tech - Gaming,1996,FALSE,FALSE,|||,||||,NaN,5.857,4.568,6.559,7.631,4.984
+44807,Themedialeader.fr,0.000454,"0,046326307",172641,TRUE,Marketing,Economique - Tech - Gaming,2005,FALSE,FALSE,|||,||||,,,,,,
+49135,Imazpress.com,0.000458,"0,07643249",5000,TRUE,Actu_Locale,Gauche - Extrême Gauche,2000,TRUE,TRUE,|||,||||,,,,,,
+65099,jeminformetv.Wordpress.com,0.000336,"0,216887754",529177,TRUE,Actu,Extrême Droite - Réinformation,2017,FALSE,FALSE,|||,||||,NaN,5.82,8.463,1.587,4.141,7.858
+248796,Mind.eu.com /media,0.000425,"0,040182884",5000,TRUE,Marketing,Economique - Tech - Gaming,2017,FALSE,FALSE,|||,||||,,,,,,
+249000,olplay.Ol.fr,0.000268,"0,217489901",78852,FALSE,Sport,Lifestyle – Santé – TV,,FALSE,FALSE,|||,||||,,,,,,
+249108,Radiofrance.fr /franceculture,0.00816,"3,797254397",67870000,FALSE,Culture,Gauche - Extrême Gauche,1944,FALSE,FALSE,Radio France|||,République française||||,,,,,,
+249120,Radiofrance.fr /franceinter,0.008826,"4,361647959",67870000,TRUE,Actu,Gauche - Extrême Gauche,1947,FALSE,FALSE,Radio France|||,République française||||,,,,,,
+249123,Radiofrance.fr /francemusique,0.002419,"0,477722081",67870000,FALSE,Culture,Gauche - Extrême Gauche,,FALSE,FALSE,Radio France|||,République française||||,,,,,,
+249146,Radiofrance.fr /fip,0.001372,"0,143411134",67870000,FALSE,Culture,Gauche - Extrême Gauche,,FALSE,FALSE,Radio France|||,République française||||,,,,,,
+249158,Radiofrance.fr /mouv,0.003956,"0,071657441",67870000,FALSE,Culture,Gauche - Extrême Gauche,,FALSE,FALSE,Radio France|||,République française||||,,,,,,
+249566,Traficalert.fr,0,"0,222575451",5000,FALSE,Tourisme,Divers,,FALSE,FALSE,|||,||||,,,,,,
+255812,motorsport.Nextgen-Auto.com /fr,0.000258,"0,0398228",9576000,FALSE,Transports,Gauche - Extrême Gauche,,FALSE,FALSE,|||,||||,,,,,,
